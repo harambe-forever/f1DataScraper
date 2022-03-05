@@ -16,10 +16,16 @@ def get_page(url):
     return doc
 
 
+nations = {}
+drivers = {}
+teams = {}
+
+
 def get_data(doc):
-    nations = {}
-    drivers = {}
-    teams = {}
+    global nations
+    global drivers
+    global teams
+
     season_drivers = []
     drivers_points_this_season = []
     site_wrapper = doc.find(class_="site-wrapper")
@@ -30,28 +36,22 @@ def get_data(doc):
         class_="resultsarchive-wrapper")
     content = results_archive_wrapper.table
     tbody = content.tbody
-    """trs = tbody.find_all("tr")
-    # print(trs)
-    for tr in trs:
-        tds = tr.find_all("td")
-        for td in tds:
-            driver_name = td.a
-            print(driver_name)"""
-    tds_for_names = tbody.find_all("td", class_="dark bold ArchiveLink")
-    print(tds_for_names)
+    tds_for_names = tbody.find_all("a", class_="dark bold ArchiveLink")
+    for td_for_names in tds_for_names:
+        names = td_for_names.find_all(
+            True, {"class": ["hide-for-tablet", "hide-for-mobile"]})
+        name = names[0].text + " " + names[1].text
+        season_drivers.append(name)
+        # print("Name:", name)
     tds_for_points = tbody.find_all("td", class_="dark bold")
     for td_for_points in tds_for_points:
         point = td_for_points.string
         drivers_points_this_season.append(point)
         # print(point)
-
-    """point = td.find(class_="dark bold")
-        print(point)"""
-    """if td.a == None:
-            continue
-        else:
-            a = td.a
-            print(a, "\n")"""
+    for i in range(len(season_drivers)):
+        key = season_drivers[i]
+        drivers[key] = drivers_points_this_season[i]
+    print(drivers)
 
 
 main()
