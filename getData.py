@@ -17,6 +17,11 @@ def get_page(url):
 
 
 def get_data(doc):
+    nations = {}
+    drivers = {}
+    teams = {}
+    season_drivers = []
+    drivers_points_this_season = []
     site_wrapper = doc.find(class_="site-wrapper")
     main = site_wrapper.find(class_="template template-resultsarchive")
     inner_class = main.find(class_="inner-wrap ResultArchiveWrapper")
@@ -25,15 +30,28 @@ def get_data(doc):
         class_="resultsarchive-wrapper")
     content = results_archive_wrapper.table
     tbody = content.tbody
-    tr = tbody.find_all("tr")
-    for every_a in tr:
-        a = every_a.find_all("a")
-        for every_name in a:
-            name = every_name.span.string
-            print(name)
-    """a = tr.find_all("a")
-    name = a.span
-    print(name)"""
+    """trs = tbody.find_all("tr")
+    # print(trs)
+    for tr in trs:
+        tds = tr.find_all("td")
+        for td in tds:
+            driver_name = td.a
+            print(driver_name)"""
+    tds_for_names = tbody.find_all("td", class_="dark bold ArchiveLink")
+    print(tds_for_names)
+    tds_for_points = tbody.find_all("td", class_="dark bold")
+    for td_for_points in tds_for_points:
+        point = td_for_points.string
+        drivers_points_this_season.append(point)
+        # print(point)
+
+    """point = td.find(class_="dark bold")
+        print(point)"""
+    """if td.a == None:
+            continue
+        else:
+            a = td.a
+            print(a, "\n")"""
 
 
 main()
