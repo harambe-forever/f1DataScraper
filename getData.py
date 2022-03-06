@@ -11,16 +11,19 @@ teams = {}
 
 def main():
     global drivers
-    for i in range(1950, 2022):
+    """for i in range(1950, 2022):
         print("iter:", i)
         year = str(i)
         url = "https://www.formula1.com/en/results.html/" + year + "/drivers.html"
         doc = get_page(url)
         data = get_data(doc)
-        time.sleep(1)
-    sorted_drivers = sorted(drivers.items(), key=lambda x: x[1], reverse=True)
+        time.sleep(1)"""
+    url = "https://www.formula1.com/en/results.html/1950/drivers.html"
+    doc = get_page(url)
+    data = get_data(doc)
+    """sorted_drivers = sorted(drivers.items(), key=lambda x: x[1], reverse=True)
     for driver in sorted_drivers:
-        print(driver[0], driver[1])
+        print(driver[0], driver[1])"""
 
 
 def get_page(url):
@@ -35,6 +38,7 @@ def get_data(doc):
     global drivers
     global teams
 
+    season_teams = []
     season_drivers = []
     drivers_points_this_season = []
     site_wrapper = doc.find(class_="site-wrapper")
@@ -45,6 +49,7 @@ def get_data(doc):
         class_="resultsarchive-wrapper")
     content = results_archive_wrapper.table
     tbody = content.tbody
+
     tds_for_names = tbody.find_all("a", class_="dark bold ArchiveLink")
     for td_for_names in tds_for_names:
         names = td_for_names.find_all(
@@ -52,11 +57,29 @@ def get_data(doc):
         name = names[0].text + " " + names[1].text
         season_drivers.append(name)
         # print("Name:", name)
+
     tds_for_points = tbody.find_all("td", class_="dark bold")
     for td_for_points in tds_for_points:
         point = td_for_points.string
         drivers_points_this_season.append(point)
         # print(point)
+
+    tds_for_teams = tbody.find_all(
+        "a", class_="grey semi-bold uppercase ArchiveLink")
+    for td_for_teams in tds_for_teams:
+        team = td_for_teams.string
+        # print(team)
+        season_teams.append(team)
+
+    for i in range(len(season_drivers)):
+        team_name = season_teams[i]
+        driver_point = drivers_points_this_season[i]
+        if team_name in teams:
+            teams[team_name] += float(driver_point)
+        else:
+            teams[team_name] = float(driver_point)
+    print(teams)
+
     for i in range(len(season_drivers)):
         key = season_drivers[i]
         if key in drivers:
@@ -64,7 +87,7 @@ def get_data(doc):
         else:
             drivers[key] = float(drivers_points_this_season[i])
 
-    # print(drivers)
+    print(drivers)
 
 
 main()
