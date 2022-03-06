@@ -1,12 +1,26 @@
 import requests
 from bs4 import BeautifulSoup as soup
 import matplotlib.pyplot as plt
+import time
+
+
+nations = {}
+drivers = {}
+teams = {}
 
 
 def main():
-    doc = get_page(
-        "https://www.formula1.com/en/results.html/1950/drivers.html")
-    data = get_data(doc)
+    global drivers
+    for i in range(1950, 2022):
+        print("iter:", i)
+        year = str(i)
+        url = "https://www.formula1.com/en/results.html/" + year + "/drivers.html"
+        doc = get_page(url)
+        data = get_data(doc)
+        time.sleep(1)
+    sorted_drivers = sorted(drivers.items(), key=lambda x: x[1], reverse=True)
+    for driver in sorted_drivers:
+        print(driver[0], driver[1])
 
 
 def get_page(url):
@@ -14,11 +28,6 @@ def get_page(url):
         "User-agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"})
     doc = soup(page.content, "html.parser")
     return doc
-
-
-nations = {}
-drivers = {}
-teams = {}
 
 
 def get_data(doc):
@@ -50,8 +59,12 @@ def get_data(doc):
         # print(point)
     for i in range(len(season_drivers)):
         key = season_drivers[i]
-        drivers[key] = drivers_points_this_season[i]
-    print(drivers)
+        if key in drivers:
+            drivers[key] += float(drivers_points_this_season[i])
+        else:
+            drivers[key] = float(drivers_points_this_season[i])
+
+    # print(drivers)
 
 
 main()
