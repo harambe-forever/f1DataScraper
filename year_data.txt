@@ -1,0 +1,25 @@
+Michael Schumacher,148,Ferrari
+Rubens Barrichello,114,Ferrari
+Jenson Button,85,BAR Honda
+Fernando Alonso,59,Renault
+Juan Pablo Montoya,58,Williams BMW
+Jarno Trulli,46,Toyota
+Kimi Räikkönen,45,McLaren Mercedes
+Takuma Sato,34,BAR Honda
+Ralf Schumacher,24,Williams BMW
+David Coulthard,24,McLaren Mercedes
+Giancarlo Fisichella,22,Sauber Petronas
+Felipe Massa,12,Sauber Petronas
+Mark Webber,7,Jaguar Cosworth
+Olivier Panis,6,Toyota
+Antonio Pizzonia,6,Williams BMW
+Christian Klien,3,Jaguar Cosworth
+Cristiano da Matta,3,Toyota
+Nick Heidfeld,3,Jordan Ford
+Timo Glock,2,Jordan Ford
+Zsolt Baumgartner,1,Minardi Cosworth
+Jacques Villeneuve,0,Renault
+Ricardo Zonta,0,Toyota
+Marc Gene,0,Williams BMW
+Giorgio Pantano,0,Jordan Ford
+Gianmaria Bruni,0,Minardi Cosworth
