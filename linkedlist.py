@@ -56,17 +56,3 @@ class SLinkedList:
         prev.nextval = head.nextval
         head = None
 
-
-"""list1 = SLinkedList()
-list1.headval = Node("mon")
-e2 = Node("tue")
-e3 = Node("wed")
-list1.headval.nextval = e2
-e2.nextval = e3
-
-list1.AtBeginning("sun")
-list1.AtEnd("tue")
-list1.InBetween(list1.headval.nextval, "monday afternoon")
-list1.RemoveNode("monday afternoon")
-
-list1.listprint()"""
