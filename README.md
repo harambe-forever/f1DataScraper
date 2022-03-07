@@ -9,6 +9,7 @@ saved result looks like this:
 
 ![resim](https://user-images.githubusercontent.com/71318378/157092812-7321a15e-415a-4a2d-90f1-cf0906859522.png)
 ![resim](https://user-images.githubusercontent.com/71318378/157092880-c5785511-968d-4582-af89-74a9451e6c74.png)
+(latifi denen eşşek nasıl 7 puan toplamış aq)
 
 say you wish to scrape only one year's data but with team information then this what the process looks like:
 
