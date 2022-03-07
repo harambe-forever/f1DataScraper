@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup as soup
 import matplotlib.pyplot as plt
 import time
+import linkedlist
 
 
 nations = {}
@@ -10,6 +11,8 @@ teams = {}
 
 
 def main():
+    LL = linkedlist.SLinkedList()
+
     global drivers
     """for i in range(1950, 2022):
         print("iter:", i)
