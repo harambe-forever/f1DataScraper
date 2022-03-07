@@ -20,3 +20,5 @@ saved result looks like this:
 
 
 the duration of the scraping process varies according to the amount of years given
+
+new features will be added with updates over time
