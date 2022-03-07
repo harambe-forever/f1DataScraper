@@ -1,10 +1,8 @@
-from dataclasses import dataclass
-import string
 import requests
 from bs4 import BeautifulSoup as soup
-import linkedlist
 import time
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
+import pandas as pd
 
 
 def get_page(url):
@@ -54,21 +52,87 @@ def get_team_name(tbody):
         "a", class_="grey semi-bold uppercase ArchiveLink")
     for td_for_teams in tds_for_teams:
         team = td_for_teams.string
-        #print("Team:", team)
         teams_this_season.append(team)
+        #print("Team:", team)
     return teams_this_season
 
 
+def save(names, points, teams):
+    lines = []
+    for i in range(len(names)):
+        appendLine = names[i] + "," + points[i] + "," + teams[i]
+        lines.append(appendLine)
+    with open("data.txt", "w", encoding="utf-8") as f:
+        for line in lines:
+            f.write(line)
+            f.write("\n")
+
+
+name_point_dict = {}
+
+
+def update_dicts(names_list, points_list):
+    global name_point_dict
+    for i in range(len(names_list)):
+        key = names_list[i]
+        if key in name_point_dict:
+            name_point_dict[key] += float(points_list[i])
+        else:
+            name_point_dict[key] = float(points_list[i])
+
+
 def main():
-    url = "https://www.formula1.com/en/results.html/1950/drivers.html"
+    global name_point_dict
+    multiple = int(input("Enable multiple years? Default 0\n(1/0):"))
+    if multiple:
+        fromm = int(input("From: "))
+        to = int(input("To (to is included): "))
+        names = []
+        points = []
+        teams = []
+        for i in range(fromm, to+1):
+            print("Scraping year", i)
+            year = str(i)
+            url = "https://www.formula1.com/en/results.html/"+year+"/drivers.html"
+            get_multiple_years_then_print(url)
+            time.sleep(1)
+        sorted_drivers = sorted(name_point_dict.items(),
+                                key=lambda x: x[1], reverse=True)
+        for i in range(len(sorted_drivers)):
+            names.append(sorted_drivers[i][0])
+            points.append(str(sorted_drivers[i][1]))
+            teams.append("")
+        save(names, points, teams)
+    else:
+        year = str(input("Enter desired year: "))
+        url = "https://www.formula1.com/en/results.html/"+year+"/drivers.html"
+        get_single_year_then_print(url)
+    print("donanza")
+
+
+def get_multiple_years_then_print(url):
+    doc = get_page(url)
+    data = get_data(doc)
+    names = get_driver_name(data)
+    points = get_driver_point(data)
+    #teams = get_team_name(data)
+    update_dicts(names, points)
+
+
+def get_single_year_then_print(url):
     doc = get_page(url)
     data = get_data(doc)
     names = get_driver_name(data)
     points = get_driver_point(data)
     teams = get_team_name(data)
-    print(len(names), " ", len(points), " ", len(teams))
-    for i in range(len(names)):
-        print(names[i], " ", points[i], " ", teams[i])
+    #save(names, points, teams)
+    new_dataframe = pd.DataFrame({
+        "Name": names,
+        "Point": points,
+        "Team": teams
+    })
+    new_dataframe.index += 1
+    print(new_dataframe)
 
 
 main()
