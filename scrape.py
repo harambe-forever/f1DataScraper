@@ -57,12 +57,12 @@ def get_team_name(tbody):
     return teams_this_season
 
 
-def save(names, points, teams):
+def save(path, names, points, teams):
     lines = []
     for i in range(len(names)):
         appendLine = names[i] + "," + points[i] + "," + teams[i]
         lines.append(appendLine)
-    with open("data.txt", "w", encoding="utf-8") as f:
+    with open(path, "w", encoding="utf-8") as f:
         for line in lines:
             f.write(line)
             f.write("\n")
@@ -102,7 +102,7 @@ def main():
             names.append(sorted_drivers[i][0])
             points.append(str(sorted_drivers[i][1]))
             teams.append("")
-        save(names, points, teams)
+        save("data.txt", names, points, teams)
     else:
         year = str(input("Enter desired year: "))
         url = "https://www.formula1.com/en/results.html/"+year+"/drivers.html"
@@ -125,7 +125,7 @@ def get_single_year_then_print(url):
     names = get_driver_name(data)
     points = get_driver_point(data)
     teams = get_team_name(data)
-    #save(names, points, teams)
+    save("year_data.txt", names, points, teams)
     new_dataframe = pd.DataFrame({
         "Name": names,
         "Point": points,
@@ -135,4 +135,7 @@ def get_single_year_then_print(url):
     print(new_dataframe)
 
 
-main()
+yes = 1
+while yes == 1:
+    main()
+    yes = int(input("Re-run? (1/0):"))
