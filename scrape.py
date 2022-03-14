@@ -60,7 +60,8 @@ def get_team_name(tbody):
 def save(path, year, names, points, teams):
     lines = []
     for i in range(len(names)):
-        appendLine = names[i] + "\t\t" + points[i] + "\t\t" + teams[i]
+        appendLine = (str(i+1) + "-" + names[i] + " "*(25-len(names[i])) +
+                      points[i] + " "*(10-len(points[i])) + teams[i])
         lines.append(appendLine)
     with open(path, "a", encoding="utf-8") as f:
         txt = "-"*20 + str(year) + " Driver Standings" + "-"*60 + "\n"
@@ -111,12 +112,14 @@ def save_dict(path):
         txt = "-"*24 + " Total points collected by drivers during this period" + "-"*30 + "\n"
         output.write(txt)
         for row in sorted_dict:
-            output.write(str(row[0]) + " " + str(row[1]) + "\n")
+            output.write(str(row[0]) + " " *
+                         (25-len(row[0])) + str(row[1]) + "\n")
 
 
 def main():
     open("year_data.txt", "w").close()
     year = get_input()
+    len_year = len(year)
     for y in year:
         print("Scraping year", y)
         url = "https://www.formula1.com/en/results.html/" + \
@@ -127,10 +130,10 @@ def main():
         point = get_driver_point(tbody)
         team = get_team_name(tbody)
         save("year_data.txt", y, name, point, team)
-        if len(year) > 1:
+        if len_year > 1:
             update_dict(name, point)
         time.sleep(1)
-    if len(year) > 1:
+    if len_year > 1:
         save_dict("year_data.txt")
     print("Process Finished Successfully")
 
