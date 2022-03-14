@@ -2,23 +2,26 @@ scraping f1 driver, point and team data from year x to year y from official f1 w
 
 this is the process if you want to gather points and drivers within a range of years:
 
-![resim](https://user-images.githubusercontent.com/71318378/157092624-5c605542-70b0-4efb-839e-d7310f42c354.png)
+![resim](https://user-images.githubusercontent.com/71318378/158123674-59e58c7a-4604-4e3f-98f8-8a50afd3490d.png)
 
-donanza means that object finished with success
 saved result looks like this:
 
-![resim](https://user-images.githubusercontent.com/71318378/157092812-7321a15e-415a-4a2d-90f1-cf0906859522.png)
-![resim](https://user-images.githubusercontent.com/71318378/157092880-c5785511-968d-4582-af89-74a9451e6c74.png)
+![resim](https://user-images.githubusercontent.com/71318378/158123718-37f89ca7-8bc1-4bc0-b5b0-60a757d71c79.png)
+![resim](https://user-images.githubusercontent.com/71318378/158123772-cae357c8-dd58-4602-9e08-10b5cfacc2ad.png)
+![resim](https://user-images.githubusercontent.com/71318378/158123799-7b8b6e9d-2d8e-4048-9da2-84ea78cc2344.png)
+
+
 (latifi denen eşşek nasıl 7 puan toplamış aq)
 
 say you wish to scrape only one year's data but with team information then this what the process looks like:
 
-![resim](https://user-images.githubusercontent.com/71318378/157093042-d82d62d7-e610-438f-838e-7a4b39b82512.png)
+![resim](https://user-images.githubusercontent.com/71318378/158123878-b16fef5d-40af-462e-b217-7195c69f2b33.png)
 
 saved result looks like this:
 
-![resim](https://user-images.githubusercontent.com/71318378/157093139-8fb111c1-a323-4dc5-a570-262102fead00.png)
+![resim](https://user-images.githubusercontent.com/71318378/158123909-57107a63-fdb9-46e8-b1de-89617a87c3ca.png)
 
+the cumulative score will not be calculated with the dictionary because it's already one year, the result would be same so it's not necessary
 
 the duration of the scraping process varies according to the amount of years given
 
