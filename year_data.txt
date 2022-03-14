@@ -1,25 +1,377 @@
-Michael Schumacher,148,Ferrari
-Rubens Barrichello,114,Ferrari
-Jenson Button,85,BAR Honda
-Fernando Alonso,59,Renault
-Juan Pablo Montoya,58,Williams BMW
-Jarno Trulli,46,Toyota
-Kimi Räikkönen,45,McLaren Mercedes
-Takuma Sato,34,BAR Honda
-Ralf Schumacher,24,Williams BMW
-David Coulthard,24,McLaren Mercedes
-Giancarlo Fisichella,22,Sauber Petronas
-Felipe Massa,12,Sauber Petronas
-Mark Webber,7,Jaguar Cosworth
-Olivier Panis,6,Toyota
-Antonio Pizzonia,6,Williams BMW
-Christian Klien,3,Jaguar Cosworth
-Cristiano da Matta,3,Toyota
-Nick Heidfeld,3,Jordan Ford
-Timo Glock,2,Jordan Ford
-Zsolt Baumgartner,1,Minardi Cosworth
-Jacques Villeneuve,0,Renault
-Ricardo Zonta,0,Toyota
-Marc Gene,0,Williams BMW
-Giorgio Pantano,0,Jordan Ford
-Gianmaria Bruni,0,Minardi Cosworth
+--------------------1994 Driver Standings------------------------------------------------------------
+Michael Schumacher		92		Benetton Ford
+Damon Hill		91		Williams Renault
+Gerhard Berger		41		Ferrari
+Mika Hakkinen		26		McLaren Peugeot
+Jean Alesi		24		Ferrari
+Rubens Barrichello		19		Jordan Hart
+Martin Brundle		16		McLaren Peugeot
+David Coulthard		14		Williams Renault
+Nigel Mansell		13		Williams Renault
+Jos Verstappen		10		Benetton Ford
+Olivier Panis		9		Ligier Renault
+Mark Blundell		8		Tyrrell Yamaha
+Heinz-Harald Frentzen		7		Sauber Mercedes
+Nicola Larini		6		Ferrari
+Christian Fittipaldi		6		Footwork Ford
+Eddie Irvine		6		Jordan Hart
+Ukyo Katayama		5		Tyrrell Yamaha
+Eric Bernard		4		Lotus Mugen Honda
+Karl Wendlinger		4		Sauber Mercedes
+Andrea de Cesaris		4		Sauber Mercedes
+Pierluigi Martini		4		Minardi Ford
+Gianni Morbidelli		3		Footwork Ford
+Erik Comas		2		Larrousse Ford
+Michele Alboreto		1		Minardi Ford
+Jyrki Jarvilehto		1		Sauber Mercedes
+--------------------1995 Driver Standings------------------------------------------------------------
+Michael Schumacher		102		Benetton Renault
+Damon Hill		69		Williams Renault
+David Coulthard		49		Williams Renault
+Johnny Herbert		45		Benetton Renault
+Jean Alesi		42		Ferrari
+Gerhard Berger		31		Ferrari
+Mika Hakkinen		17		McLaren Mercedes
+Olivier Panis		16		Ligier Mugen Honda
+Heinz-Harald Frentzen		15		Sauber Ford
+Mark Blundell		13		McLaren Mercedes
+Rubens Barrichello		11		Jordan Peugeot
+Eddie Irvine		10		Jordan Peugeot
+Martin Brundle		7		Ligier Mugen Honda
+Gianni Morbidelli		5		Footwork Hart
+Mika Salo		5		Tyrrell Yamaha
+Jean-Christophe Boullion		3		Sauber Ford
+Aguri Suzuki		1		Ligier Mugen Honda
+Pedro Lamy		1		Minardi Ford
+--------------------1996 Driver Standings------------------------------------------------------------
+Damon Hill		97		Williams Renault
+Jacques Villeneuve		78		Williams Renault
+Michael Schumacher		59		Ferrari
+Jean Alesi		47		Benetton Renault
+Mika Hakkinen		31		McLaren Mercedes
+Gerhard Berger		21		Benetton Renault
+David Coulthard		18		McLaren Mercedes
+Rubens Barrichello		14		Jordan Peugeot
+Olivier Panis		13		Ligier Mugen Honda
+Eddie Irvine		11		Ferrari
+Martin Brundle		8		Jordan Peugeot
+Heinz-Harald Frentzen		7		Sauber Ford
+Mika Salo		5		Tyrrell Yamaha
+Johnny Herbert		4		Sauber Ford
+Pedro Diniz		2		Ligier Mugen Honda
+Jos Verstappen		1		Footwork Hart
+--------------------1997 Driver Standings------------------------------------------------------------
+Jacques Villeneuve		81		Williams Renault
+Michael Schumacher		78		Ferrari
+Heinz-Harald Frentzen		42		Williams Renault
+David Coulthard		36		McLaren Mercedes
+Jean Alesi		36		Benetton Renault
+Gerhard Berger		27		Benetton Renault
+Mika Hakkinen		27		McLaren Mercedes
+Eddie Irvine		24		Ferrari
+Giancarlo Fisichella		20		Jordan Peugeot
+Olivier Panis		16		Prost Mugen Honda
+Johnny Herbert		15		Sauber Petronas
+Ralf Schumacher		13		Jordan Peugeot
+Damon Hill		7		Arrows Yamaha
+Rubens Barrichello		6		Stewart Ford
+Alexander Wurz		4		Benetton Renault
+Jarno Trulli		3		Prost Mugen Honda
+Mika Salo		2		Tyrrell Ford
+Pedro Diniz		2		Arrows Yamaha
+Shinji Nakano		2		Prost Mugen Honda
+Nicola Larini		1		Sauber Petronas
+--------------------1998 Driver Standings------------------------------------------------------------
+Mika Hakkinen		100		McLaren Mercedes
+Michael Schumacher		86		Ferrari
+David Coulthard		56		McLaren Mercedes
+Eddie Irvine		47		Ferrari
+Jacques Villeneuve		21		Williams Mecachrome
+Damon Hill		20		Jordan Mugen Honda
+Heinz-Harald Frentzen		17		Williams Mecachrome
+Alexander Wurz		17		Benetton Playlife
+Giancarlo Fisichella		16		Benetton Playlife
+Ralf Schumacher		14		Jordan Mugen Honda
+Jean Alesi		9		Sauber Petronas
+Rubens Barrichello		4		Stewart Ford
+Mika Salo		3		Arrows
+Pedro Diniz		3		Arrows
+Johnny Herbert		1		Sauber Petronas
+Jan Magnussen		1		Stewart Ford
+Jarno Trulli		1		Prost Peugeot
+Ricardo Rosset		0		Tyrrell Ford
+Olivier Panis		0		Prost Peugeot
+Toranosuke Takagi		0		Tyrrell Ford
+Shinji Nakano		0		Minardi Ford
+Esteban Tuero		0		Minardi Ford
+Jos Verstappen		0		Stewart Ford
+--------------------1999 Driver Standings------------------------------------------------------------
+Mika Hakkinen		76		McLaren Mercedes
+Eddie Irvine		74		Ferrari
+Heinz-Harald Frentzen		54		Jordan Mugen Honda
+David Coulthard		48		McLaren Mercedes
+Michael Schumacher		44		Ferrari
+Ralf Schumacher		35		Williams Supertec
+Rubens Barrichello		21		Stewart Ford
+Johnny Herbert		15		Stewart Ford
+Giancarlo Fisichella		13		Benetton Playlife
+Mika Salo		10		Ferrari
+Jarno Trulli		7		Prost Peugeot
+Damon Hill		7		Jordan Mugen Honda
+Alexander Wurz		3		Benetton Playlife
+Pedro Diniz		3		Sauber Petronas
+Olivier Panis		2		Prost Peugeot
+Jean Alesi		2		Sauber Petronas
+Pedro de la Rosa		1		Arrows
+Marc Gene		1		Minardi Ford
+--------------------2000 Driver Standings------------------------------------------------------------
+Michael Schumacher		108		Ferrari
+Mika Hakkinen		89		McLaren Mercedes
+David Coulthard		73		McLaren Mercedes
+Rubens Barrichello		62		Ferrari
+Ralf Schumacher		24		Williams BMW
+Giancarlo Fisichella		18		Benetton Playlife
+Jacques Villeneuve		17		BAR Honda
+Jenson Button		12		Williams BMW
+Heinz-Harald Frentzen		11		Jordan Mugen Honda
+Jarno Trulli		6		Jordan Mugen Honda
+Mika Salo		6		Sauber Petronas
+Jos Verstappen		5		Arrows Supertec
+Eddie Irvine		4		Jaguar Cosworth
+Ricardo Zonta		3		BAR Honda
+Alexander Wurz		2		Benetton Playlife
+Pedro de la Rosa		2		Arrows Supertec
+Pedro Diniz		0		Sauber Petronas
+Johnny Herbert		0		Jaguar Cosworth
+Marc Gene		0		Minardi Fondmetal
+Gaston Mazzacane		0		Minardi Fondmetal
+Nick Heidfeld		0		Prost Peugeot
+Jean Alesi		0		Prost Peugeot
+Luciano Burti		0		Jaguar Cosworth
+--------------------2001 Driver Standings------------------------------------------------------------
+Michael Schumacher		123		Ferrari
+David Coulthard		65		McLaren Mercedes
+Rubens Barrichello		56		Ferrari
+Ralf Schumacher		49		Williams BMW
+Mika Hakkinen		37		McLaren Mercedes
+Juan Pablo Montoya		31		Williams BMW
+Jacques Villeneuve		12		BAR Honda
+Nick Heidfeld		12		Sauber Petronas
+Jarno Trulli		12		Jordan Honda
+Kimi Räikkönen		9		Sauber Petronas
+Giancarlo Fisichella		8		Benetton Renault
+Eddie Irvine		6		Jaguar Cosworth
+Heinz-Harald Frentzen		6		Prost Acer
+Olivier Panis		5		BAR Honda
+Jean Alesi		5		Jordan Honda
+Pedro de la Rosa		3		Jaguar Cosworth
+Jenson Button		2		Benetton Renault
+Jos Verstappen		1		Arrows Asiatech
+--------------------2002 Driver Standings------------------------------------------------------------
+Michael Schumacher		144		Ferrari
+Rubens Barrichello		77		Ferrari
+Juan Pablo Montoya		50		Williams BMW
+Ralf Schumacher		42		Williams BMW
+David Coulthard		41		McLaren Mercedes
+Kimi Räikkönen		24		McLaren Mercedes
+Jenson Button		14		Renault
+Jarno Trulli		9		Renault
+Eddie Irvine		8		Jaguar Cosworth
+Nick Heidfeld		7		Sauber Petronas
+Giancarlo Fisichella		7		Jordan Honda
+Jacques Villeneuve		4		BAR Honda
+Felipe Massa		4		Sauber Petronas
+Olivier Panis		3		BAR Honda
+Takuma Sato		2		Jordan Honda
+Mark Webber		2		Minardi Asiatech
+Mika Salo		2		Toyota
+Heinz-Harald Frentzen		2		Sauber Petronas
+Allan McNish		0		Toyota
+Alex Yoong		0		Minardi Asiatech
+Pedro de la Rosa		0		Jaguar Cosworth
+Enrique Bernoldi		0		Arrows Cosworth
+--------------------2003 Driver Standings------------------------------------------------------------
+Michael Schumacher		93		Ferrari
+Kimi Räikkönen		91		McLaren Mercedes
+Juan Pablo Montoya		82		Williams BMW
+Rubens Barrichello		65		Ferrari
+Ralf Schumacher		58		Williams BMW
+Fernando Alonso		55		Renault
+David Coulthard		51		McLaren Mercedes
+Jarno Trulli		33		Renault
+Jenson Button		17		BAR Honda
+Mark Webber		17		Jaguar Cosworth
+Heinz-Harald Frentzen		13		Sauber Petronas
+Giancarlo Fisichella		12		Jordan Ford
+Cristiano da Matta		10		Toyota
+Nick Heidfeld		6		Sauber Petronas
+Olivier Panis		6		Toyota
+Jacques Villeneuve		6		BAR Honda
+Marc Gene		4		Williams BMW
+Takuma Sato		3		BAR Honda
+Ralph Firman		1		Jordan Ford
+Justin Wilson		1		Jaguar Cosworth
+Antonio Pizzonia		0		Jaguar Cosworth
+Jos Verstappen		0		Minardi Cosworth
+Nicolas Kiesa		0		Minardi Cosworth
+Zsolt Baumgartner		0		Jordan Ford
+--------------------2004 Driver Standings------------------------------------------------------------
+Michael Schumacher		148		Ferrari
+Rubens Barrichello		114		Ferrari
+Jenson Button		85		BAR Honda
+Fernando Alonso		59		Renault
+Juan Pablo Montoya		58		Williams BMW
+Jarno Trulli		46		Toyota
+Kimi Räikkönen		45		McLaren Mercedes
+Takuma Sato		34		BAR Honda
+Ralf Schumacher		24		Williams BMW
+David Coulthard		24		McLaren Mercedes
+Giancarlo Fisichella		22		Sauber Petronas
+Felipe Massa		12		Sauber Petronas
+Mark Webber		7		Jaguar Cosworth
+Olivier Panis		6		Toyota
+Antonio Pizzonia		6		Williams BMW
+Christian Klien		3		Jaguar Cosworth
+Cristiano da Matta		3		Toyota
+Nick Heidfeld		3		Jordan Ford
+Timo Glock		2		Jordan Ford
+Zsolt Baumgartner		1		Minardi Cosworth
+Jacques Villeneuve		0		Renault
+Ricardo Zonta		0		Toyota
+Marc Gene		0		Williams BMW
+Giorgio Pantano		0		Jordan Ford
+Gianmaria Bruni		0		Minardi Cosworth
+--------------------2005 Driver Standings------------------------------------------------------------
+Fernando Alonso		133		Renault
+Kimi Räikkönen		112		McLaren Mercedes
+Michael Schumacher		62		Ferrari
+Juan Pablo Montoya		60		McLaren Mercedes
+Giancarlo Fisichella		58		Renault
+Ralf Schumacher		45		Toyota
+Jarno Trulli		43		Toyota
+Rubens Barrichello		38		Ferrari
+Jenson Button		37		BAR Honda
+Mark Webber		36		Williams BMW
+Nick Heidfeld		28		Williams BMW
+David Coulthard		24		RBR Cosworth
+Felipe Massa		11		Sauber Petronas
+Jacques Villeneuve		9		Sauber Petronas
+Christian Klien		9		RBR Cosworth
+Tiago Monteiro		7		Jordan Toyota
+Alexander Wurz		6		McLaren Mercedes
+Narain Karthikeyan		5		Jordan Toyota
+Christijan Albers		4		Minardi Cosworth
+Pedro de la Rosa		4		McLaren Mercedes
+Patrick Friesacher 		3		Minardi Cosworth
+Antonio Pizzonia		2		Williams BMW
+Takuma Sato		1		BAR Honda
+Vitantonio Liuzzi		1		RBR Cosworth
+Robert Doornbos		0		Minardi Cosworth
+--------------------2006 Driver Standings------------------------------------------------------------
+Fernando Alonso		134		Renault
+Michael Schumacher		121		Ferrari
+Felipe Massa		80		Ferrari
+Giancarlo Fisichella		72		Renault
+Kimi Räikkönen		65		McLaren Mercedes
+Jenson Button		56		Honda
+Rubens Barrichello		30		Honda
+Juan Pablo Montoya		26		McLaren Mercedes
+Nick Heidfeld		23		Sauber BMW
+Ralf Schumacher		20		Toyota
+Pedro de la Rosa		19		McLaren Mercedes
+Jarno Trulli		15		Toyota
+David Coulthard		14		RBR Ferrari
+Mark Webber		7		Williams Cosworth
+Jacques Villeneuve		7		Sauber BMW
+Robert Kubica		6		Sauber BMW
+Nico Rosberg		4		Williams Cosworth
+Christian Klien		2		RBR Ferrari
+Vitantonio Liuzzi		1		STR Cosworth
+Scott Speed		0		STR Cosworth
+Tiago Monteiro		0		MF1 Toyota
+Christijan Albers		0		MF1 Toyota
+Takuma Sato		0		Super Aguri Honda
+Robert Doornbos		0		RBR Ferrari
+Yuji Ide		0		Super Aguri Honda
+Sakon Yamamoto		0		Super Aguri Honda
+Franck Montagny		0		Super Aguri Honda
+------------------------ Total points collected by drivers during this period------------------------------
+Michael Schumacher 1260.0
+Rubens Barrichello 517.0
+David Coulthard 513.0
+Mika Hakkinen 403.0
+Fernando Alonso 381.0
+Kimi Räikkönen 346.0
+Ralf Schumacher 324.0
+Juan Pablo Montoya 307.0
+Damon Hill 291.0
+Giancarlo Fisichella 246.0
+Jacques Villeneuve 235.0
+Jenson Button 223.0
+Eddie Irvine 190.0
+Jarno Trulli 175.0
+Heinz-Harald Frentzen 174.0
+Jean Alesi 165.0
+Gerhard Berger 120.0
+Felipe Massa 107.0
+Johnny Herbert 80.0
+Nick Heidfeld 79.0
+Olivier Panis 76.0
+Mark Webber 69.0
+Takuma Sato 40.0
+Mika Salo 33.0
+Alexander Wurz 32.0
+Martin Brundle 31.0
+Pedro de la Rosa 29.0
+Mark Blundell 21.0
+Jos Verstappen 17.0
+Christian Klien 14.0
+Nigel Mansell 13.0
+Cristiano da Matta 13.0
+Pedro Diniz 10.0
+Gianni Morbidelli 8.0
+Antonio Pizzonia 8.0
+Nicola Larini 7.0
+Tiago Monteiro 7.0
+Christian Fittipaldi 6.0
+Robert Kubica 6.0
+Ukyo Katayama 5.0
+Marc Gene 5.0
+Narain Karthikeyan 5.0
+Eric Bernard 4.0
+Karl Wendlinger 4.0
+Andrea de Cesaris 4.0
+Pierluigi Martini 4.0
+Christijan Albers 4.0
+Nico Rosberg 4.0
+Jean-Christophe Boullion 3.0
+Ricardo Zonta 3.0
+Patrick Friesacher  3.0
+Erik Comas 2.0
+Shinji Nakano 2.0
+Timo Glock 2.0
+Vitantonio Liuzzi 2.0
+Michele Alboreto 1.0
+Jyrki Jarvilehto 1.0
+Aguri Suzuki 1.0
+Pedro Lamy 1.0
+Jan Magnussen 1.0
+Ralph Firman 1.0
+Justin Wilson 1.0
+Zsolt Baumgartner 1.0
+Ricardo Rosset 0.0
+Toranosuke Takagi 0.0
+Esteban Tuero 0.0
+Gaston Mazzacane 0.0
+Luciano Burti 0.0
+Allan McNish 0.0
+Alex Yoong 0.0
+Enrique Bernoldi 0.0
+Nicolas Kiesa 0.0
+Giorgio Pantano 0.0
+Gianmaria Bruni 0.0
+Robert Doornbos 0.0
+Scott Speed 0.0
+Yuji Ide 0.0
+Sakon Yamamoto 0.0
+Franck Montagny 0.0
