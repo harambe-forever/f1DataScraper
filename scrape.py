@@ -1,3 +1,4 @@
+from tkinter.font import names
 import requests
 from bs4 import BeautifulSoup as soup
 import time
@@ -72,21 +73,34 @@ def save(path, year, names, points, teams):
     f.close()
 
 
+def save_for_sql(path, year, names, points, teams):
+    lines = []
+    lines.append(str(year))
+    for i in range(len(names)):
+        appendLine = names[i] + "," + points[i] + "," + teams[i]
+        lines.append(appendLine)
+    with open(path, "a", encoding="utf-8") as f:
+        for line in lines:
+            f.write(line)
+            f.write("\n")
+    f.close()
+
+
 def get_input():
     year = []
     ipt = input("What year do you want?\nIf multiple, seperate with comma.\n")
     ipt = ipt.split(",")
     if len(ipt) > 1:
-        while int(ipt[0]) < 1950 or int(ipt[1]) > 2021:
+        while int(ipt[0]) < 1950 or int(ipt[1]) > 2022:
             ipt = input(
-                "No such year. Dates should be given between 1950 and 2021.\n")
+                "No such year. Dates should be given between 1950 and 2022.\n")
             ipt = ipt.split(",")
         for y in range(int(ipt[0]), int(ipt[1])+1):
             year.append(y)
     else:
-        while int(ipt[0]) < 1950 or int(ipt[0]) > 2021:
+        while int(ipt[0]) < 1950 or int(ipt[0]) > 2022:
             ipt = input(
-                "No such year. Dates should be given between 1950 and 2021.\n")
+                "No such year. Dates should be given between 1950 and 2022.\n")
             ipt = ipt.split(",")
         year.append(int(ipt[0]))
     return year
@@ -118,6 +132,7 @@ def save_dict(path):
 
 def main():
     open("year_data.txt", "w").close()
+    open("sqlData.txt", "w").close()
     year = get_input()
     len_year = len(year)
     for y in year:
@@ -129,7 +144,8 @@ def main():
         name = get_driver_name(tbody)
         point = get_driver_point(tbody)
         team = get_team_name(tbody)
-        save("year_data.txt", y, name, point, team)
+        #save("year_data.txt", y, name, point, team)
+        save_for_sql("sqlData.txt", y, name, point, team)
         if len_year > 1:
             update_dict(name, point)
         time.sleep(1)

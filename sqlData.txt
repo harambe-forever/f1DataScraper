@@ -1,0 +1,20 @@
+2022
+Charles Leclerc,26,Ferrari
+Carlos Sainz,18,Ferrari
+Lewis Hamilton,15,Mercedes
+George Russell,12,Mercedes
+Kevin Magnussen,10,Haas Ferrari
+Valtteri Bottas,8,Alfa Romeo Ferrari
+Esteban Ocon,6,Alpine Renault
+Yuki Tsunoda,4,AlphaTauri RBPT
+Fernando Alonso,2,Alpine Renault
+Zhou Guanyu,1,Alfa Romeo Ferrari
+Mick Schumacher,0,Haas Ferrari
+Lance Stroll,0,Aston Martin Aramco Mercedes
+Alexander Albon,0,Williams Mercedes
+Daniel Ricciardo,0,McLaren Mercedes
+Lando Norris,0,McLaren Mercedes
+Nicholas Latifi,0,Williams Mercedes
+Nico Hulkenberg,0,Aston Martin Aramco Mercedes
+Sergio Perez,0,Red Bull Racing RBPT
+Max Verstappen,0,Red Bull Racing RBPT
