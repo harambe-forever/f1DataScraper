@@ -1,9 +1,6 @@
-from tkinter.font import names
 import requests
 from bs4 import BeautifulSoup as soup
 import time
-# import matplotlib.pyplot as plt
-import pandas as pd
 
 
 def get_page(url):
@@ -106,24 +103,36 @@ def get_input():
     return year
 
 
-dict = {}
+dict_person = {}
+dict_team = {}
 
 
-def update_dict(name, point):
-    global dict
-    for i in range(len(name)):
-        key = name[i]
-        if key in dict:
-            dict[key] += float(point[i])
-        else:
-            dict[key] = float(point[i])
+def update_dict(name, team, point, flag):
+    global dict_team, dict_name
+    if flag == 0:
+        for i in range(len(name)):
+            key = name[i]
+            if key in dict_person:
+                dict_person[key] += float(point[i])
+            else:
+                dict_person[key] = float(point[i])
+    else:
+        for i in range(len(team)):
+            key = team[i]
+            if key in dict_team:
+                dict_team[key] += float(point[i])
+            else:
+                dict_team[key] = float(point[i])
 
 
-def save_dict(path):
-    global dict
-    sorted_dict = sorted(dict.items(), key=lambda x: x[1], reverse=True)
+def save_dict(path, dict, flag):
+    #global dict_person
+    if flag == 1:
+        sorted_dict = sorted(dict.items(), key=lambda x: x[0], reverse=False)
+    else:
+        sorted_dict = sorted(dict.items(), key=lambda x: x[1], reverse=True)
     with open(path, "a", encoding="utf-8") as output:
-        txt = "-"*24 + " Total points collected by drivers during this period" + "-"*30 + "\n"
+        txt = "-"*24 + " Total points collected by drivers/teams during this period" + "-"*30 + "\n"
         output.write(txt)
         for row in sorted_dict:
             output.write(str(row[0]) + " " *
@@ -131,8 +140,9 @@ def save_dict(path):
 
 
 def main():
+    global dict_team, dict_person
     open("year_data.txt", "w").close()
-    open("sqlData.txt", "w").close()
+    #open("sqlData.txt", "w").close()
     year = get_input()
     len_year = len(year)
     for y in year:
@@ -144,13 +154,15 @@ def main():
         name = get_driver_name(tbody)
         point = get_driver_point(tbody)
         team = get_team_name(tbody)
-        #save("year_data.txt", y, name, point, team)
-        save_for_sql("sqlData.txt", y, name, point, team)
+        save("year_data.txt", y, name, point, team)
+        update_dict(None, team, point, 1)
+        #save_for_sql("sqlData.txt", y, name, point, team)
         if len_year > 1:
-            update_dict(name, point)
+            update_dict(name, None, point, 0)
         time.sleep(1)
     if len_year > 1:
-        save_dict("year_data.txt")
+        save_dict("year_data.txt", dict_person, 0)
+    save_dict("year_data.txt", dict_team, 1)
     print("Process Finished Successfully")
 
 

@@ -105,7 +105,7 @@
 21-Heikki Kovalainen        0         Lotus Renault
 22-Giedo van der Garde      0         Caterham Renault
 23-Max Chilton              0         Marussia Cosworth
------------------------- Total points collected by drivers during this period------------------------------
+------------------------ Total points collected by drivers/teams during this period------------------------------
 Sebastian Vettel         1326.0
 Fernando Alonso          1029.0
 Mark Webber              878.0
@@ -148,3 +148,21 @@ Charles Pic              0.0
 Jules Bianchi            0.0
 Giedo van der Garde      0.0
 Max Chilton              0.0
+------------------------ Total points collected by drivers/teams during this period------------------------------
+Caterham Renault         0.0
+Ferrari                  1525.0
+Force India Mercedes     323.0
+HRT Cosworth             0.0
+Lotus Cosworth           0.0
+Lotus Renault            618.0
+Marussia Cosworth        0.0
+McLaren Mercedes         1451.0
+Mercedes                 881.0
+RBR Renault              498.0
+Red Bull Racing Renault  1706.0
+Renault                  236.0
+STR Ferrari              113.0
+Sauber Ferrari           271.0
+Virgin Cosworth          0.0
+Williams Cosworth        74.0
+Williams Renault         81.0
