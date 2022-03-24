@@ -1,0 +1,426 @@
+--------------------1976 358/brazil Race Info------------------------------------------------------------
+Pos Name                     Team                     Laps          Time          Points
+1-Niki Lauda               Ferrari                  40            1:45:16.780   9
+2-Patrick Depailler        Tyrrell Ford             40            +21.470s      6
+3-Tom Pryce                Shadow Ford              40            +23.840s      4
+4-Hans-Joachim Stuck       March Ford               40            +88.170s      3
+5-Jody Scheckter           Tyrrell Ford             40            +116.460s     2
+6-Jochen Mass              McLaren Ford             40            +118.270s     1
+7-Clay Regazzoni           Ferrari                  40            +135.240s     0
+8-Jacky Ickx               Wolf-Williams            39            +1 lap        0
+9-Renzo Zorzi              Wolf-Williams            39            +1 lap        0
+10-Carlos Pace              Brabham Alfa Romeo       39            +1 lap        0
+11-Ingo Hoffman             Fittipaldi Ford          39            +1 lap        0
+12-Carlos Reutemann         Brabham Alfa Romeo       37            DNF           0
+13-Emerson Fittipaldi       Fittipaldi Ford          37            +3 laps       0
+14-Lella Lombardi           March Ford               36            +4 laps       0
+15-Jean-Pierre Jarier       Shadow Ford              33            DNF           0
+16-James Hunt               McLaren Ford             32            DNF           0
+17-Vittorio Brambilla       March Ford               15            DNF           0
+18-Jacques Laffite          Ligier Matra             14            DNF           0
+19-Ronnie Peterson          Lotus Ford               10            DNF           0
+20-Mario Andretti           Lotus Ford               6             DNF           0
+21-John Watson              Penske Ford              2             DNF           0
+22-Ian Ashley               BRM                      2             DNF           0
+--------------------1976 359/south-africa Race Info------------------------------------------------------------
+Pos Name                     Team                     Laps          Time          Points
+1-Niki Lauda               Ferrari                  78            1:42:18.400   9
+2-James Hunt               McLaren Ford             78            +1.300s       6
+3-Jochen Mass              McLaren Ford             78            +45.900s      4
+4-Jody Scheckter           Tyrrell Ford             78            +68.400s      3
+5-John Watson              Penske Ford              77            +1 lap        2
+6-Mario Andretti           Parnelli Ford            77            +1 lap        1
+7-Tom Pryce                Shadow Ford              77            +1 lap        0
+8-Vittorio Brambilla       March Ford               77            +1 lap        0
+9-Patrick Depailler        Tyrrell Ford             77            +1 lap        0
+10-Bob Evans                Lotus Ford               77            +1 lap        0
+11-Brett Lunger             Surtees Ford             77            +1 lap        0
+12-Hans-Joachim Stuck       March Ford               76            +2 laps       0
+13-Michel Leclere           Wolf-Williams            76            +2 laps       0
+14-Chris Amon               Ensign Ford              76            +2 laps       0
+15-Harald Ertl              Hesketh Ford             74            +4 laps       0
+16-Jacky Ickx               Wolf-Williams            73            +5 laps       0
+17-Emerson Fittipaldi       Fittipaldi Ford          70            DNF           0
+18-Clay Regazzoni           Ferrari                  52            DNF           0
+19-Jacques Laffite          Ligier Matra             49            DNF           0
+20-Jean-Pierre Jarier       Shadow Ford              28            DNF           0
+21-Carlos Pace              Brabham Alfa Romeo       22            DNF           0
+22-Gunnar Nilsson           Lotus Ford               18            DNF           0
+23-Carlos Reutemann         Brabham Alfa Romeo       16            DNF           0
+24-Ronnie Peterson          March Ford               15            DNF           0
+25-Ian Scheckter            Tyrrell Ford             0             DNF           0
+--------------------1976 360/usa-west Race Info------------------------------------------------------------
+Pos Name                     Team                     Laps          Time          Points
+1-Clay Regazzoni           Ferrari                  80            1:53:18.471   9
+2-Niki Lauda               Ferrari                  80            +42.414s      6
+3-Patrick Depailler        Tyrrell Ford             80            +49.972s      4
+4-Jacques Laffite          Ligier Matra             80            +72.828s      3
+5-Jochen Mass              McLaren Ford             80            +82.292s      2
+6-Emerson Fittipaldi       Fittipaldi Ford          79            +1 lap        1
+7-Jean-Pierre Jarier       Shadow Ford              79            +1 lap        0
+8-Chris Amon               Ensign Ford              78            +2 laps       0
+9-Carlos Pace              Brabham Alfa Romeo       77            +3 laps       0
+10-Ronnie Peterson          March Ford               77            +3 laps       0
+11-Alan  Jones              Surtees Ford             70            +10 laps      0
+12-John Watson              Penske Ford              69            +11 laps      0
+13-Jody Scheckter           Tyrrell Ford             34            DNF           0
+14-Tom Pryce                Shadow Ford              32            DNF           0
+15-Mario Andretti           Parnelli Ford            15            DNF           0
+16-James Hunt               McLaren Ford             3             DNF           0
+17-Hans-Joachim Stuck       March Ford               2             DNF           0
+18-Gunnar Nilsson           Lotus Ford               0             DNF           0
+19-Carlos Reutemann         Brabham Alfa Romeo       0             DNF           0
+20-Vittorio Brambilla       March Ford               0             DNF           0
+--------------------1976 361/spain Race Info------------------------------------------------------------
+Pos Name                     Team                     Laps          Time          Points
+1-James Hunt               McLaren Ford             75            1:42:20.430   9
+2-Niki Lauda               Ferrari                  75            +30.970s      6
+3-Gunnar Nilsson           Lotus Ford               75            +48.020s      4
+4-Carlos Reutemann         Brabham Alfa Romeo       74            +1 lap        3
+5-Chris Amon               Ensign Ford              74            +1 lap        2
+6-Carlos Pace              Brabham Alfa Romeo       74            +1 lap        1
+7-Jacky Ickx               Wolf-Williams            74            +1 lap        0
+8-Tom Pryce                Shadow Ford              74            +1 lap        0
+9-Alan  Jones              Surtees Ford             74            +1 lap        0
+10-Michel Leclere           Wolf-Williams            73            +2 laps       0
+11-Clay Regazzoni           Ferrari                  72            +3 laps       0
+12-Jacques Laffite          Ligier Matra             72            +3 laps       0
+13-Larry Perkins            Boro Ford                72            +3 laps       0
+14-Jochen Mass              McLaren Ford             65            DNF           0
+15-Jean-Pierre Jarier       Shadow Ford              61            DNF           0
+16-Jody Scheckter           Tyrrell Ford             53            DNF           0
+17-John Watson              Penske Ford              51            DNF           0
+18-Arturo Merzario          March Ford               36            DNF           0
+19-Mario Andretti           Lotus Ford               34            DNF           0
+20-Patrick Depailler        Tyrrell Ford             25            DNF           0
+21-Vittorio Brambilla       March Ford               21            DNF           0
+22-Hans-Joachim Stuck       March Ford               16            DNF           0
+23-Ronnie Peterson          March Ford               11            DNF           0
+24-Emerson Fittipaldi       Fittipaldi Ford          3             DNF           0
+--------------------1976 362/belgium Race Info------------------------------------------------------------
+Pos Name                     Team                     Laps          Time          Points
+1-Niki Lauda               Ferrari                  70            1:42:53.230   9
+2-Clay Regazzoni           Ferrari                  70            +3.460s       6
+3-Jacques Laffite          Ligier Matra             70            +35.380s      4
+4-Jody Scheckter           Tyrrell Ford             70            +91.080s      3
+5-Alan  Jones              Surtees Ford             69            +1 lap        2
+6-Jochen Mass              McLaren Ford             69            +1 lap        1
+7-John Watson              Penske Ford              69            +1 lap        0
+8-Larry Perkins            Boro Ford                69            +1 lap        0
+9-Jean-Pierre Jarier       Shadow Ford              69            +1 lap        0
+10-Tom Pryce                Shadow Ford              68            +2 laps       0
+11-Michel Leclere           Wolf-Williams            68            +2 laps       0
+12-Loris Kessel             null                     63            +7 laps       0
+13-Brett Lunger             Surtees Ford             62            DNF           0
+14-Carlos Pace              Brabham Alfa Romeo       58            DNF           0
+15-Chris Amon               Ensign Ford              51            DNF           0
+16-James Hunt               McLaren Ford             35            DNF           0
+17-Hans-Joachim Stuck       March Ford               33            DNF           0
+18-Harald Ertl              Hesketh Ford             31            DNF           0
+19-Patrick Depailler        Tyrrell Ford             29            DNF           0
+20-Mario Andretti           Lotus Ford               28            DNF           0
+21-Patrick Neve             null                     24            DNF           0
+22-Arturo Merzario          March Ford               21            DNF           0
+23-Carlos Reutemann         Brabham Alfa Romeo       17            DNF           0
+24-Ronnie Peterson          March Ford               16            DNF           0
+25-Gunnar Nilsson           Lotus Ford               7             DNF           0
+26-Vittorio Brambilla       March Ford               6             DNF           0
+--------------------1976 363/monaco Race Info------------------------------------------------------------
+Pos Name                     Team                     Laps          Time          Points
+1-Niki Lauda               Ferrari                  78            1:59:51.470   9
+2-Jody Scheckter           Tyrrell Ford             78            +11.130s      6
+3-Patrick Depailler        Tyrrell Ford             78            +64.840s      4
+4-Hans-Joachim Stuck       March Ford               77            +1 lap        3
+5-Jochen Mass              McLaren Ford             77            +1 lap        2
+6-Emerson Fittipaldi       Fittipaldi Ford          77            +1 lap        1
+7-Tom Pryce                Shadow Ford              77            +1 lap        0
+8-Jean-Pierre Jarier       Shadow Ford              76            +2 laps       0
+9-Carlos Pace              Brabham Alfa Romeo       76            +2 laps       0
+10-John Watson              Penske Ford              76            +2 laps       0
+11-Michel Leclere           Wolf-Williams            76            +2 laps       0
+12-Jacques Laffite          Ligier Matra             75            DNF           0
+13-Chris Amon               Ensign Ford              74            +4 laps       0
+14-Clay Regazzoni           Ferrari                  73            DNF           0
+15-Gunnar Nilsson           Lotus Ford               39            DNF           0
+16-Ronnie Peterson          March Ford               26            DNF           0
+17-James Hunt               McLaren Ford             24            DNF           0
+18-Vittorio Brambilla       March Ford               9             DNF           0
+19-Alan  Jones              Surtees Ford             1             DNF           0
+20-Carlos Reutemann         Brabham Alfa Romeo       0             DNF           0
+--------------------1976 364/sweden Race Info------------------------------------------------------------
+Pos Name                     Team                     Laps          Time          Points
+1-Jody Scheckter           Tyrrell Ford             72            1:46:53.729   9
+2-Patrick Depailler        Tyrrell Ford             72            +19.770s      6
+3-Niki Lauda               Ferrari                  72            +33.870s      4
+4-Jacques Laffite          Ligier Matra             72            +55.820s      3
+5-James Hunt               McLaren Ford             72            +59.480s      2
+6-Clay Regazzoni           Ferrari                  72            +60.370s      1
+7-Ronnie Peterson          March Ford               72            +63.490s      0
+8-Carlos Pace              Brabham Alfa Romeo       72            +71.610s      0
+9-Tom Pryce                Shadow Ford              71            +1 lap        0
+10-Vittorio Brambilla       March Ford               71            +1 lap        0
+11-Jochen Mass              McLaren Ford             71            +1 lap        0
+12-Jean-Pierre Jarier       Shadow Ford              71            +1 lap        0
+13-Alan  Jones              Surtees Ford             71            +1 lap        0
+14-Arturo Merzario          March Ford               70            DNF           0
+15-Brett Lunger             Surtees Ford             70            +2 laps       0
+16-Harald Ertl              Hesketh Ford             54            DNF           0
+17-Hans-Joachim Stuck       March Ford               52            DNF           0
+18-Mario Andretti           Lotus Ford               45            DNF           0
+19-Chris Amon               Ensign Ford              38            DNF           0
+20-Michel Leclere           Wolf-Williams            20            DNF           0
+21-Larry Perkins            Boro Ford                18            DNF           0
+22-Emerson Fittipaldi       Fittipaldi Ford          10            DNF           0
+23-Loris Kessel             null                     5             DNF           0
+24-Gunnar Nilsson           Lotus Ford               2             DNF           0
+25-Carlos Reutemann         Brabham Alfa Romeo       2             DNF           0
+26-John Watson              Penske Ford              0             DNF           0
+--------------------1976 365/france Race Info------------------------------------------------------------
+Pos Name                     Team                     Laps          Time          Points
+1-James Hunt               McLaren Ford             54            1:40:58.600   9
+2-Patrick Depailler        Tyrrell Ford             54            +12.700s      6
+3-John Watson              Penske Ford              54            +23.550s      4
+4-Carlos Pace              Brabham Alfa Romeo       54            +24.820s      3
+5-Mario Andretti           Lotus Ford               54            +43.920s      2
+6-Jody Scheckter           Tyrrell Ford             54            +55.070s      1
+7-Hans-Joachim Stuck       March Ford               54            +81.550s      0
+8-Tom Pryce                Shadow Ford              54            +90.670s      0
+9-Arturo Merzario          March Ford               54            +113.570s     0
+10-Jacky Ickx               Wolf-Williams            53            +1 lap        0
+11-Carlos Reutemann         Brabham Alfa Romeo       53            +1 lap        0
+12-Jean-Pierre Jarier       Shadow Ford              53            +1 lap        0
+13-Michel Leclere           Wolf-Williams            53            +1 lap        0
+14-Jacques Laffite          Ligier Matra             53            +1 lap        0
+15-Jochen Mass              McLaren Ford             53            +1 lap        0
+16-Brett Lunger             Surtees Ford             53            +1 lap        0
+17-Guy Edwards              Hesketh Ford             53            +1 lap        0
+18-Patrick Neve             Ensign Ford              53            +1 lap        0
+19-Ronnie Peterson          March Ford               51            DNF           0
+20-Alan  Jones              Surtees Ford             44            DNF           0
+21-Vittorio Brambilla       March Ford               28            DNF           0
+22-Emerson Fittipaldi       Fittipaldi Ford          21            DNF           0
+23-Henri Pescarolo          Surtees Ford             19            DNF           0
+24-Clay Regazzoni           Ferrari                  17            DNF           0
+25-Niki Lauda               Ferrari                  8             DNF           0
+26-Gunnar Nilsson           Lotus Ford               8             DNF           0
+27-Harald Ertl              Hesketh Ford             4             DNF           0
+--------------------1976 366/great-britain Race Info------------------------------------------------------------
+Pos Name                     Team                     Laps          Time          Points
+1-James Hunt               McLaren Ford             76            DSQ           0
+2-Niki Lauda               Ferrari                  76            1:44:19.660   9
+3-Jody Scheckter           Tyrrell Ford             76            +16.180s      6
+4-John Watson              Penske Ford              75            +1 lap        4
+5-Tom Pryce                Shadow Ford              75            +1 lap        3
+6-Alan  Jones              Surtees Ford             75            +1 lap        2
+7-Emerson Fittipaldi       Fittipaldi Ford          74            +2 laps       1
+8-Harald Ertl              Hesketh Ford             73            +3 laps       0
+9-Carlos Pace              Brabham Alfa Romeo       73            +3 laps       0
+10-Jean-Pierre Jarier       Shadow Ford              70            +6 laps       0
+11-Gunnar Nilsson           Lotus Ford               67            DNF           0
+12-Ronnie Peterson          March Ford               60            DNF           0
+13-Brett Lunger             Surtees Ford             55            DNF           0
+14-Patrick Depailler        Tyrrell Ford             47            DNF           0
+15-Carlos Reutemann         Brabham Alfa Romeo       46            DNF           0
+16-Arturo Merzario          March Ford               39            DNF           0
+17-Clay Regazzoni           Ferrari                  36            DNF           0
+18-Jacques Laffite          Ligier Matra             31            DNF           0
+19-Bob Evans                Brabham Alfa Romeo       31            DNF           0
+20-Vittorio Brambilla       March Ford               22            DNF           0
+21-Henri Pescarolo          Surtees Ford             16            DNF           0
+22-Chris Amon               Ensign Ford              8             DNF           0
+23-Mario Andretti           Lotus Ford               4             DNF           0
+24-Jochen Mass              McLaren Ford             1             DNF           0
+25-Hans-Joachim Stuck       March Ford               0             DNF           0
+26-Guy Edwards              Hesketh Ford             0             DNF           0
+--------------------1976 367/germany Race Info------------------------------------------------------------
+Pos Name                     Team                     Laps          Time          Points
+1-James Hunt               McLaren Ford             14            1:41:42.700   9
+2-Jody Scheckter           Tyrrell Ford             14            +27.700s      6
+3-Jochen Mass              McLaren Ford             14            +52.400s      4
+4-Carlos Pace              Brabham Alfa Romeo       14            +54.200s      3
+5-Gunnar Nilsson           Lotus Ford               14            +117.300s     2
+6-Rolf Stommelen           Brabham Alfa Romeo       14            +150.300s     1
+7-John Watson              Penske Ford              14            +153.900s     0
+8-Tom Pryce                Shadow Ford              14            +168.200s     0
+9-Clay Regazzoni           Ferrari                  14            +226.000s     0
+10-Alan  Jones              Surtees Ford             14            +227.300s     0
+11-Jean-Pierre Jarier       Shadow Ford              14            +291.700s     0
+12-Mario Andretti           Lotus Ford               14            +298.100s     0
+13-Emerson Fittipaldi       Fittipaldi Ford          14            +325.200s     0
+14-Alessandro Pesenti-Rossi Tyrrell Ford             13            +1 lap        0
+15-Guy Edwards              Hesketh Ford             13            +1 lap        0
+16-Arturo Merzario          Wolf-Williams            3             DNF           0
+17-Vittorio Brambilla       March Ford               1             DNF           0
+18-Patrick Depailler        Tyrrell Ford             0             DNF           0
+19-Carlos Reutemann         Brabham Alfa Romeo       0             DNF           0
+20-Ronnie Peterson          March Ford               0             DNF           0
+21-Hans-Joachim Stuck       March Ford               0             DNF           0
+22-Jacques Laffite          Ligier Matra             0             DNF           0
+23-Chris Amon               Ensign Ford              0             DNF           0
+24-Niki Lauda               Ferrari                  0             DNF           0
+25-Brett Lunger             Surtees Ford             0             DNF           0
+26-Harald Ertl              Hesketh Ford             0             DNF           0
+--------------------1976 368/austria Race Info------------------------------------------------------------
+Pos Name                     Team                     Laps          Time          Points
+1-John Watson              Penske Ford              54            1:30:07.860   9
+2-Jacques Laffite          Ligier Matra             54            +10.790s      6
+3-Gunnar Nilsson           Lotus Ford               54            +11.980s      4
+4-James Hunt               McLaren Ford             54            +12.440s      3
+5-Mario Andretti           Lotus Ford               54            +21.490s      2
+6-Ronnie Peterson          March Ford               54            +34.340s      1
+7-Jochen Mass              McLaren Ford             54            +59.450s      0
+8-Harald Ertl              Hesketh Ford             53            +1 lap        0
+9-Henri Pescarolo          Surtees Ford             52            +2 laps       0
+10-Brett Lunger             Surtees Ford             51            DNF           0
+11-Alessandro Pesenti-Rossi Tyrrell Ford             51            +3 laps       0
+12-Lella Lombardi           null                     50            +4 laps       0
+13-Hans Binder              Ensign Ford              47            DNF           0
+14-Loris Kessel             null                     44            +10 laps      0
+15-Vittorio Brambilla       March Ford               43            DNF           0
+16-Emerson Fittipaldi       Fittipaldi Ford          43            DNF           0
+17-Jean-Pierre Jarier       Shadow Ford              40            DNF           0
+18-Carlos Pace              Brabham Alfa Romeo       40            DNF           0
+19-Alan  Jones              Surtees Ford             40            DNF           0
+20-Hans-Joachim Stuck       March Ford               26            DNF           0
+21-Patrick Depailler        Tyrrell Ford             24            DNF           0
+22-Arturo Merzario          Wolf-Williams            17            DNF           0
+23-Tom Pryce                Shadow Ford              14            DNF           0
+24-Jody Scheckter           Tyrrell Ford             14            DNF           0
+25-Carlos Reutemann         Brabham Alfa Romeo       0             DNF           0
+--------------------1976 369/netherlands Race Info------------------------------------------------------------
+Pos Name                     Team                     Laps          Time          Points
+1-James Hunt               McLaren Ford             75            1:44:52.090   9
+2-Clay Regazzoni           Ferrari                  75            +0.920s       6
+3-Mario Andretti           Lotus Ford               75            +2.090s       4
+4-Tom Pryce                Shadow Ford              75            +6.940s       3
+5-Jody Scheckter           Tyrrell Ford             75            +22.460s      2
+6-Vittorio Brambilla       March Ford               75            +45.030s      1
+7-Patrick Depailler        Tyrrell Ford             75            +56.280s      0
+8-Alan  Jones              Surtees Ford             74            +1 lap        0
+9-Jochen Mass              McLaren Ford             74            +1 lap        0
+10-Jean-Pierre Jarier       Shadow Ford              74            +1 lap        0
+11-Henri Pescarolo          Surtees Ford             74            +1 lap        0
+12-Rolf Stommelen           Hesketh Ford             72            +3 laps       0
+13-Jacky Ickx               Ensign Ford              66            DNF           0
+14-Boy Hayje                Penske Ford              63            DNF           0
+15-Carlos Pace              Brabham Alfa Romeo       53            DNF           0
+16-Jacques Laffite          Ligier Matra             53            DNF           0
+17-Ronnie Peterson          March Ford               52            DNF           0
+18-Harald Ertl              Hesketh Ford             49            DNF           0
+19-John Watson              Penske Ford              47            DNF           0
+20-Larry Perkins            Boro Ford                44            DNF           0
+21-Emerson Fittipaldi       Fittipaldi Ford          40            DNF           0
+22-Carlos Reutemann         Brabham Alfa Romeo       11            DNF           0
+23-Gunnar Nilsson           Lotus Ford               10            DNF           0
+24-Conny Andersson          Surtees Ford             9             DNF           0
+25-Hans-Joachim Stuck       March Ford               9             DNF           0
+26-Arturo Merzario          Wolf-Williams            5             DNF           0
+--------------------1976 370/italy Race Info------------------------------------------------------------
+Pos Name                     Team                     Laps          Time          Points
+1-Ronnie Peterson          March Ford               52            1:30:35.600   9
+2-Clay Regazzoni           Ferrari                  52            +2.300s       6
+3-Jacques Laffite          Ligier Matra             52            +3.000s       4
+4-Niki Lauda               Ferrari                  52            +19.400s      3
+5-Jody Scheckter           Tyrrell Ford             52            +19.500s      2
+6-Patrick Depailler        Tyrrell Ford             52            +35.700s      1
+7-Vittorio Brambilla       March Ford               52            +43.900s      0
+8-Tom Pryce                Shadow Ford              52            +52.900s      0
+9-Carlos Reutemann         Ferrari                  52            +57.500s      0
+10-Jacky Ickx               Ensign Ford              52            +72.400s      0
+11-John Watson              Penske Ford              52            +102.200s     0
+12-Alan  Jones              Surtees Ford             51            +1 lap        0
+13-Gunnar Nilsson           Lotus Ford               51            +1 lap        0
+14-Brett Lunger             Surtees Ford             50            +2 laps       0
+15-Emerson Fittipaldi       Fittipaldi Ford          50            +2 laps       0
+16-Harald Ertl              Hesketh Ford             49            DNF           0
+17-Henri Pescarolo          Surtees Ford             49            +3 laps       0
+18-Alessandro Pesenti-Rossi Tyrrell Ford             49            +3 laps       0
+19-Jean-Pierre Jarier       Shadow Ford              47            +5 laps       0
+20-Rolf Stommelen           Brabham Alfa Romeo       41            DNF           0
+21-Hans-Joachim Stuck       March Ford               23            DNF           0
+22-Mario Andretti           Lotus Ford               23            DNF           0
+23-James Hunt               McLaren Ford             11            DNF           0
+24-Larry Perkins            Boro Ford                8             DNF           0
+25-Carlos Pace              Brabham Alfa Romeo       4             DNF           0
+26-Jochen Mass              McLaren Ford             2             DNF           0
+--------------------1976 371/canada Race Info------------------------------------------------------------
+Pos Name                     Team                     Laps          Time          Points
+1-James Hunt               McLaren Ford             80            1:40:09.626   9
+2-Patrick Depailler        Tyrrell Ford             80            +6.331s       6
+3-Mario Andretti           Lotus Ford               80            +10.366s      4
+4-Jody Scheckter           Tyrrell Ford             80            +19.745s      3
+5-Jochen Mass              McLaren Ford             80            +41.811s      2
+6-Clay Regazzoni           Ferrari                  80            +46.256s      1
+7-Carlos Pace              Brabham Alfa Romeo       80            +46.472s      0
+8-Niki Lauda               Ferrari                  80            +72.957s      0
+9-Ronnie Peterson          March Ford               79            +1 lap        0
+10-John Watson              Penske Ford              79            +1 lap        0
+11-Tom Pryce                Shadow Ford              79            +1 lap        0
+12-Gunnar Nilsson           Lotus Ford               79            +1 lap        0
+13-Jacky Ickx               Ensign Ford              79            +1 lap        0
+14-Vittorio Brambilla       March Ford               79            +1 lap        0
+15-Brett Lunger             Surtees Ford             78            +2 laps       0
+16-Alan  Jones              Surtees Ford             78            +2 laps       0
+17-Larry Perkins            Brabham Alfa Romeo       78            +2 laps       0
+18-Jean-Pierre Jarier       Shadow Ford              77            +3 laps       0
+19-Henri Pescarolo          Surtees Ford             77            +3 laps       0
+20-Guy Edwards              Hesketh Ford             75            +5 laps       0
+21-Jacques Laffite          Ligier Matra             43            DNF           0
+22-Emerson Fittipaldi       Fittipaldi Ford          41            DNF           0
+23-Hans-Joachim Stuck       March Ford               36            DNF           0
+24-Arturo Merzario          Wolf-Williams            11            DNF           0
+--------------------1976 372/usa-east Race Info------------------------------------------------------------
+Pos Name                     Team                     Laps          Time          Points
+1-James Hunt               McLaren Ford             59            1:42:40.741   9
+2-Jody Scheckter           Tyrrell Ford             59            +8.030s       6
+3-Niki Lauda               Ferrari                  59            +62.324s      4
+4-Jochen Mass              McLaren Ford             59            +62.458s      3
+5-Hans-Joachim Stuck       March Ford               59            +67.978s      2
+6-John Watson              Penske Ford              59            +68.190s      1
+7-Clay Regazzoni           Ferrari                  58            +1 lap        0
+8-Alan  Jones              Surtees Ford             58            +1 lap        0
+9-Emerson Fittipaldi       Fittipaldi Ford          57            +2 laps       0
+10-Jean-Pierre Jarier       Shadow Ford              57            +2 laps       0
+11-Brett Lunger             Surtees Ford             57            +2 laps       0
+12-Alex Ribeiro             Hesketh Ford             57            +2 laps       0
+13-Harald Ertl              Hesketh Ford             54            +5 laps       0
+14-Warwick Brown            Wolf-Williams            54            +5 laps       0
+15-Henri Pescarolo          Surtees Ford             48            +11 laps      0
+16-Tom Pryce                Shadow Ford              45            DNF           0
+17-Jacques Laffite          Ligier Matra             34            DNF           0
+18-Vittorio Brambilla       March Ford               34            DNF           0
+19-Carlos Pace              Brabham Alfa Romeo       31            DNF           0
+20-Larry Perkins            Brabham Alfa Romeo       30            DNF           0
+21-Mario Andretti           Lotus Ford               23            DNF           0
+22-Jacky Ickx               Ensign Ford              14            DNF           0
+23-Gunnar Nilsson           Lotus Ford               13            DNF           0
+24-Ronnie Peterson          March Ford               12            DNF           0
+25-Arturo Merzario          Wolf-Williams            9             DNF           0
+26-Patrick Depailler        Tyrrell Ford             7             DNF           0
+--------------------1976 373/japan Race Info------------------------------------------------------------
+Pos Name                     Team                     Laps          Time          Points
+1-Mario Andretti           Lotus Ford               73            1:43:58.860   9
+2-Patrick Depailler        Tyrrell Ford             72            +1 lap        6
+3-James Hunt               McLaren Ford             72            +1 lap        4
+4-Alan  Jones              Surtees Ford             72            +1 lap        3
+5-Clay Regazzoni           Ferrari                  72            +1 lap        2
+6-Gunnar Nilsson           Lotus Ford               72            +1 lap        1
+7-Jacques Laffite          Ligier Matra             72            +1 lap        0
+8-Harald Ertl              Hesketh Ford             72            +1 lap        0
+9-Noritake Takahara        Surtees Ford             70            +3 laps       0
+10-Jean-Pierre Jarier       Shadow Ford              69            +4 laps       0
+11-Masahiro Hasemi          Kojima Ford              66            +7 laps       0
+12-Jody Scheckter           Tyrrell Ford             58            DNF           0
+13-Hans Binder              Wolf-Williams            49            DNF           0
+14-Tom Pryce                Shadow Ford              46            DNF           0
+15-Vittorio Brambilla       March Ford               38            DNF           0
+16-Hans-Joachim Stuck       March Ford               37            DNF           0
+17-Jochen Mass              McLaren Ford             35            DNF           0
+18-John Watson              Penske Ford              33            DNF           0
+19-Kazuyoshi Hoshino        Tyrrell Ford             27            DNF           0
+20-Arturo Merzario          Wolf-Williams            23            DNF           0
+21-Emerson Fittipaldi       Fittipaldi Ford          9             DNF           0
+22-Carlos Pace              Brabham Alfa Romeo       7             DNF           0
+23-Niki Lauda               Ferrari                  2             DNF           0
+24-Larry Perkins            Brabham Alfa Romeo       1             DNF           0
+25-Ronnie Peterson          March Ford               0             DNF           0
