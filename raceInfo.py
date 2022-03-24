@@ -20,9 +20,12 @@ def get_races(doc):
     rarchive3 = rarchive2.find_next(class_="resultsarchive-filter-wrap")
     lis = rarchive3.find_all("li", class_="resultsarchive-filter-item")
     races = []
+    race_links = []                                 # bunu dict ile yapmaya calis
     for li in lis:
+        race_links.append([item["data-value"]
+                           for item in li.find_all() if "data-value" in item.attrs])
         races.append(li.a.span.string)
-    return races
+    return races, race_links
 
 
 def get_input():
@@ -56,16 +59,16 @@ def get_race_input(races, y):
         print(i, "-", races[i])
     ipt = input("Enter: ")
     if(ipt.isdigit()):
-        #print("hell yeah")
+        # print("hell yeah")
         while int(ipt) > len(races):
             ipt = input("Get your shit together and try again: ")
         return races[int(ipt)]
     else:
-        #print("hell yo")
+        # print("hell yo")
         while ipt not in races:
             ipt = input("Get your shit together and try again: ")
         return ipt
-    #print("selected:", ipt)
+    # print("selected:", ipt)
 
 
 def main():
@@ -75,9 +78,12 @@ def main():
         print("Scraping year", y)
         url = "https://www.formula1.com/en/results.html/"+str(y)+"/races.html"
         doc = get_page(url)
-        races = get_races(doc)
-        ipt = get_race_input(races, y)
-        print(ipt)
+        races, race_links = get_races(doc)
+        print(races)
+        print("-"*31)
+        print(race_links)
+        # ipt = get_race_input(races, y)
+        # print(ipt)
     """url = "https://www.formula1.com/en/results.html/2021/races.html"
     doc = get_page(url)
     get_data(doc)"""
