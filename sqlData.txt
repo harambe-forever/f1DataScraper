@@ -1,20 +1,1668 @@
-2022
-Charles Leclerc,26,Ferrari
-Carlos Sainz,18,Ferrari
-Lewis Hamilton,15,Mercedes
-George Russell,12,Mercedes
-Kevin Magnussen,10,Haas Ferrari
-Valtteri Bottas,8,Alfa Romeo Ferrari
-Esteban Ocon,6,Alpine Renault
-Yuki Tsunoda,4,AlphaTauri RBPT
-Fernando Alonso,2,Alpine Renault
-Zhou Guanyu,1,Alfa Romeo Ferrari
-Mick Schumacher,0,Haas Ferrari
-Lance Stroll,0,Aston Martin Aramco Mercedes
-Alexander Albon,0,Williams Mercedes
-Daniel Ricciardo,0,McLaren Mercedes
-Lando Norris,0,McLaren Mercedes
+1950
+Nino Farina,30,Alfa Romeo
+Juan Manuel Fangio,27,Alfa Romeo
+Luigi Fagioli,24,Alfa Romeo
+Louis  Rosier,13,Talbot-Lago
+Alberto Ascari,11,Ferrari
+Johnnie  Parsons,9,Kurtis Kraft Offenhauser
+Bill Holland,6,Deidt Offenhauser
+Prince Bira,5,Maserati
+Reg  Parnell,4,Maserati
+Louis  Chiron,4,Maserati
+Mauri Rose,4,Deidt Offenhauser
+Peter  Whitehead,4,Ferrari
+Yves Giraud Cabantous,3,Talbot-Lago
+Raymond  Sommer,3,Talbot-Lago
+Cecil  Green,3,Kurtis Kraft Offenhauser
+Robert  Manzon,3,Simca-Gordini
+Dorino  Serafini,3,null
+Philippe  Etancelin,3,null
+Felice  Bonetto,2,Maserati Milano
+Tony  Bettenhausen,1,Deidt Offenhauser
+Joie  Chitwood,1,Kurtis Kraft Offenhauser
+Eugene  Chaboud,1,null
+1951
+Juan Manuel Fangio,31,Alfa Romeo
+Alberto Ascari,25,Ferrari
+Jose Froilan Gonzalez,24,Ferrari
+Nino Farina,19,Alfa Romeo
+Luigi  Villoresi,15,Ferrari
+Piero  Taruffi,10,Ferrari
+Lee Wallard,9,Kurtis Kraft Offenhauser
+Felice  Bonetto,7,Alfa Romeo
+Mike Nazaruk,6,Kurtis Kraft Offenhauser
+Reg  Parnell,5,BRM
+Luigi Fagioli,4,Alfa Romeo
+Consalvo  Sanesi,3,Alfa Romeo
+Andy Linden,3,Sherman Offenhauser
+Louis  Rosier,3,null
+Toulo de Graffenried,2,Alfa Romeo
+Manny Ayulo,2,Kurtis Kraft Offenhauser
+Bobby Ball,2,Schroeder Offenhauser
+Jack McGrath,2,Kurtis Kraft Offenhauser
+Yves Giraud Cabantous,2,Talbot-Lago
+1952
+Alberto Ascari,36,Ferrari
+Nino Farina,24,Ferrari
+Piero  Taruffi,22,Ferrari
+Rudi  Fischer ,10,Ferrari
+Mike Hawthorn,10,Cooper Bristol
+Robert  Manzon,9,Gordini
+Troy Ruttman,8,Kuzma Offenhauser
+Luigi  Villoresi,8,Ferrari
+Jose Froilan Gonzalez,6.5,Maserati
+Jim Rathmann,6,Kurtis Kraft Offenhauser
+Jean Behra,6,Gordini
+Sam Hanks,4,Kurtis Kraft Offenhauser
+Ken  Wharton,3,null
+Duane Carter,3,Lesovsky Offenhauser
+Dennis Poore,3,Connaught Lea Francis
+Alan Brown,2,Cooper Bristol
+Art Cross,2,Kurtis Kraft Offenhauser
+Paul Frere,2,Simca-Gordini
+Maurice  Trintignant,2,Gordini
+Eric Thompson,2,Connaught Lea Francis
+Felice  Bonetto,2,Maserati
+Bill  Vukovich ,1,Kurtis Kraft Offenhauser
+1953
+Alberto Ascari,34.5,Ferrari
+Juan Manuel Fangio,27.5,Maserati
+Nino Farina,26,Ferrari
+Mike Hawthorn,19,Ferrari
+Luigi  Villoresi,17,Ferrari
+Jose Froilan Gonzalez,13.5,Maserati
+Bill  Vukovich ,9,Kurtis Kraft Offenhauser
+Toulo de Graffenried,7,Maserati
+Felice  Bonetto,6.5,Maserati
+Art Cross,6,Kurtis Kraft Offenhauser
+Onofre Marimon,4,Maserati
+Maurice  Trintignant,4,Gordini
+Oscar Alfredo Galvez,2,Maserati
+Sam Hanks,2,Kurtis Kraft Offenhauser
+Duane Carter,2,Kurtis Kraft Offenhauser
+Jack McGrath,2,Kurtis Kraft Offenhauser
+Hermann Lang,2,Maserati
+Fred Agabashian,1.5,Kurtis Kraft Offenhauser
+Paul Russo,1.5,Kurtis Kraft Offenhauser
+1954
+Juan Manuel Fangio,42,Mercedes-Benz
+Jose Froilan Gonzalez,25.1,Ferrari
+Mike Hawthorn,24.6,Ferrari
+Maurice  Trintignant,17,Ferrari
+Karl Kling,12,Mercedes-Benz
+Bill  Vukovich ,8,Kurtis Kraft Offenhauser
+Hans  Herrmann,8,Mercedes-Benz
+Nino Farina,6,Ferrari
+Jimmy Bryan,6,Kuzma Offenhauser
+Luigi Musso,6,Maserati
+Roberto Mieres,6,Maserati
+Jack McGrath,5,Kurtis Kraft Offenhauser
+Stirling Moss,4.1,Maserati
+Onofre Marimon,4.1,Maserati
+Robert  Manzon,4,Ferrari
+Sergio Mantovani,4,Maserati
+Prince Bira,3,Maserati
+Elie Bayol,2,Gordini
+Mike Nazaruk,2,Kurtis Kraft Offenhauser
+Andre Pilette,2,Gordini
+Luigi  Villoresi,2,Lancia
+Umberto  Maglioli,2,Ferrari
+Troy Ruttman,1.5,Kurtis Kraft Offenhauser
+Duane Carter,1.5,Kurtis Kraft Offenhauser
+Alberto Ascari,1.1,Lancia
+Jean Behra,0.1,Gordini
+1955
+Juan Manuel Fangio,40,Mercedes-Benz
+Stirling Moss,23,Mercedes-Benz
+Eugenio Castellotti,12,Ferrari
+Maurice  Trintignant,11.3,Ferrari
+Nino Farina,10.3,Ferrari
+Piero  Taruffi,9,Mercedes-Benz
+Bob Sweikert,8,Kurtis Kraft Offenhauser
+Roberto Mieres,7,Maserati
+Luigi Musso,6,Maserati
+Jean Behra,6,Maserati
+Karl Kling,5,Mercedes-Benz
+Jimmy Davies,4,Kurtis Kraft Offenhauser
+Paul Russo,3,Kurtis Kraft Offenhauser
+Tony  Bettenhausen,3,Kurtis Kraft Offenhauser
+Johnny Thomson,3,Kuzma Offenhauser
+Paul Frere,3,Ferrari
+Jose Froilan Gonzalez,2,Ferrari
+Cesare Perdisa,2,Maserati
+Luigi  Villoresi,2,Lancia
+Carlos Menditeguy,2,Maserati
+Umberto  Maglioli,1.3,Ferrari
+Hans  Herrmann,1,Mercedes-Benz
+Walt  Faulkner,1,Kurtis Kraft Offenhauser
+Bill Homeier,1,Kurtis Kraft Offenhauser
+Bill  Vukovich ,1,Kurtis Kraft Offenhauser
+1956
+Juan Manuel Fangio,30,Ferrari
+Stirling Moss,27,Maserati
+Peter Collins,25,Ferrari
+Jean Behra,22,Maserati
+Pat Flaherty,8,Watson Offenhauser
+Eugenio Castellotti,7.5,Ferrari
+Sam Hanks,6,Kurtis Kraft Offenhauser
+Paul Frere,6,Ferrari
+Paco  Godia,6,Maserati
+Jack  Fairman,5,Connaught Alta
+Mike Hawthorn,4,BRM
+Luigi Musso,4,Ferrari
+Don  Freeland,4,Phillips Offenhauser
+Ron Flockhart,4,Connaught Alta
+Johnnie  Parsons,3,Kuzma Offenhauser
+Harry Schell,3,Vanwall
+Alfonso de Portago ,3,Ferrari
+Cesare Perdisa,3,Maserati
+Olivier  Gendebien,2,Ferrari
+Hermano da Silva Ramos,2,Gordini
+Dick Rathmann,2,Kurtis Kraft Offenhauser
+Luigi  Villoresi,2,Maserati
+Horace  Gould ,2,Maserati
+Louis  Rosier,2,Maserati
+Gerino  Gerini ,1.5,Maserati
+Chico Landi,1.5,Maserati
+Paul Russo,1,Kurtis Kraft Novi
+1957
+Juan Manuel Fangio,40,Maserati
+Stirling Moss,25,Vanwall
+Luigi Musso,16,Ferrari
+Mike Hawthorn,13,Ferrari
+Tony Brooks,11,Vanwall
+Masten Gregory,10,Maserati
+Harry Schell,10,Maserati
+Sam Hanks,8,Epperly Offenhauser
+Peter Collins,8,Ferrari
+Jim Rathmann,7,Epperly Offenhauser
+Jean Behra,6,Maserati
+Stuart  Lewis-Evans ,5,Vanwall
+Maurice  Trintignant,5,Ferrari
+Carlos Menditeguy,4,Maserati
+Jimmy Bryan,4,Kuzma Offenhauser
+Wolfgang von Trips,4,Ferrari
+Paul Russo,3,Kurtis Kraft Novi
+Andy Linden,2,Kurtis Kraft Offenhauser
+Roy Salvadori,2,Cooper Climax
+Alfonso de Portago ,1,Ferrari
+Jose Froilan Gonzalez,1,Ferrari
+Giorgio  Scarlatti ,1,Maserati
+1958
+Mike Hawthorn,42,Ferrari
+Stirling Moss,41,Vanwall
+Tony Brooks,24,Vanwall
+Roy Salvadori,15,Cooper Climax
+Peter Collins,14,Ferrari
+Harry Schell,14,BRM
+Maurice  Trintignant,12,Cooper Climax
+Luigi Musso,12,Ferrari
+Stuart  Lewis-Evans ,11,Vanwall
+Phil Hill,9,Ferrari
+Jean Behra,9,BRM
+Wolfgang von Trips,9,Ferrari
+Jimmy Bryan,8,Epperly Offenhauser
+Juan Manuel Fangio,7,Maserati
+George  Amick,6,Epperly Offenhauser
+Tony  Bettenhausen,4,Epperly Offenhauser
+Johnny  Boyd,4,Kurtis Kraft Offenhauser
+Jack Brabham,3,Cooper Climax
+Cliff Allison,3,Lotus Climax
+Jo Bonnier,3,BRM
+Jim Rathmann,2,Epperly Offenhauser
+1959
+Jack Brabham,31,Cooper Climax
+Tony Brooks,27,Ferrari
+Stirling Moss,25.5,Cooper Climax
+Phil Hill,20,Ferrari
+Maurice  Trintignant,19,Cooper Climax
+Bruce McLaren,16.5,Cooper Climax
+Dan Gurney,13,Ferrari
+Jo Bonnier,10,BRM
+Masten Gregory,10,Cooper Climax
+Rodger Ward,8,Kurtis Kraft Offenhauser
+Jim Rathmann,6,Watson Offenhauser
+Johnny Thomson,5,Lesovsky Offenhauser
+Innes Ireland,5,Lotus Climax
+Harry Schell,5,Cooper Climax
+Tony  Bettenhausen,3,Epperly Offenhauser
+Olivier  Gendebien,3,Ferrari
+Paul Goldsmith,2,Epperly Offenhauser
+Jean Behra,2,Ferrari
+Cliff Allison,2,Ferrari
+1960
+Jack Brabham,43,Cooper Climax
+Bruce McLaren,34,Cooper Climax
+Stirling Moss,19,Lotus Climax
+Innes Ireland,18,Lotus Climax
+Phil Hill,16,Cooper Climax
+Olivier  Gendebien,10,Cooper Climax
+Wolfgang von Trips,10,Cooper Maserati
+Jim Rathmann,8,Watson Offenhauser
+Richie Ginther,8,Ferrari
+Jim Clark,8,Lotus Climax
+Tony Brooks,7,Cooper Climax
+Cliff Allison,6,Ferrari
+Rodger Ward,6,Watson Offenhauser
+John Surtees,6,Lotus Climax
+Paul Goldsmith,4,Epperly Offenhauser
+Graham Hill,4,BRM
+Willy Mairesse,4,Ferrari
+Jo Bonnier,4,BRM
+Carlos Menditeguy,3,Cooper Maserati
+Don  Branson,3,Phillips Offenhauser
+Henry Taylor,3,Cooper Climax
+Giulio Cabianca,3,Cooper Castellotti
+Johnny Thomson,2,Lesovsky Offenhauser
+Eddie Johnson,1,Trevis Offenhauser
+Lucien Bianchi,1,Cooper Climax
+Ron Flockhart,1,Cooper Climax
+Hans  Herrmann,1,Porsche
+1961
+Phil Hill,34,Ferrari
+Wolfgang von Trips,33,Ferrari
+Stirling Moss,21,Lotus Climax
+Dan Gurney,21,Porsche
+Richie Ginther,16,Ferrari
+Innes Ireland,12,Lotus Climax
+Jim Clark,11,Lotus Climax
+Bruce McLaren,11,Cooper Climax
+Giancarlo Baghetti,9,Ferrari
+Tony Brooks,6,BRM Climax
+Jack Brabham,4,Cooper Climax
+John Surtees,4,Cooper Climax
+Olivier  Gendebien,3,Lotus Climax
+Jackie  Lewis ,3,Cooper Climax
+Jo Bonnier,3,Porsche
+Graham Hill,3,BRM Climax
+Roy Salvadori,2,Cooper Climax
+1962
+Graham Hill,42,BRM
+Jim Clark,30,Lotus Climax
+Bruce McLaren,27,Cooper Climax
+John Surtees,19,Lola Climax
+Dan Gurney,15,Porsche
+Phil Hill,14,Ferrari
+Tony Maggs,13,Cooper Climax
+Richie Ginther,10,BRM
+Jack Brabham,9,Brabham Climax
+Trevor  Taylor ,6,Lotus Climax
+Giancarlo Baghetti,5,Ferrari
+Lorenzo Bandini,4,Ferrari
+Ricardo  Rodriguez ,4,Ferrari
+Willy Mairesse,3,Ferrari
+Jo Bonnier,3,Porsche
+Innes Ireland,2,Lotus Climax
+Carel Godin de Beaufort ,2,Porsche
+Masten Gregory,1,Lotus BRM
+Neville Lederle,1,Lotus Climax
+1963
+Jim Clark,54,Lotus Climax
+Graham Hill,29,BRM
+Richie Ginther,29,BRM
+John Surtees,22,Ferrari
+Dan Gurney,19,Brabham Climax
+Bruce McLaren,17,Cooper Climax
+Jack Brabham,14,Brabham Climax
+Tony Maggs,9,Cooper Climax
+Innes Ireland,6,BRP BRM
+Lorenzo Bandini,6,Ferrari
+Jo Bonnier,6,Cooper Climax
+Gerhard Mitter,3,Porsche
+Jim  Hall ,3,Lotus BRM
+Carel Godin de Beaufort ,2,Porsche
+Trevor  Taylor ,1,Lotus Climax
+Ludovico Scarfiotti,1,Ferrari
+Jo Siffert,1,Lotus BRM
+Willy Mairesse,0,Ferrari
+Maurice  Trintignant,0,BRM
+Tony  Settember ,0,Scirocco BRM
+Lucien Bianchi,0,Lola Climax
+Phil Hill,0,ATS
+Giancarlo Baghetti,0,ATS
+Chris Amon,0,Lotus BRM
+Masten Gregory,0,null
+Bob Anderson,0,Lola Climax
+Ian Raby,0,Gilby BRM
+John  Campbell-Jones ,0,Lola Climax
+Ian Burgess ,0,Scirocco BRM
+Mike Hailwood,0,null
+Mario  de Araujo Cabral ,0,Cooper Climax
+Bernard  Collomb ,0,Lotus Climax
+Mike Spence,0,Lotus Climax
+Peter Broeker ,0,Stebro Ford
+Rodger Ward,0,Lotus BRM
+Pedro Rodriguez,0,Lotus Climax
+Hap  Sharp ,0,Lotus BRM
+Moises Solana,0,BRM
+Doug Serrurier,0,LDS Alfa Romeo
+Trevor Blokdyk,0,Cooper Maserati
+Brausch Niemann,0,Lotus Ford
+John Love,0,Cooper Climax
+Ernie Pieterse,0,Lotus Climax
+Peter de Klerk,0,Alfa Romeo
+Sam Tingle,0,LDS Alfa Romeo
+David Prophet,0,Brabham Ford
+1964
+John Surtees,40,Ferrari
+Graham Hill,39,BRM
+Jim Clark,32,Lotus Climax
+Lorenzo Bandini,23,Ferrari
+Richie Ginther,23,BRM
+Dan Gurney,19,Brabham Climax
+Bruce McLaren,13,Cooper Climax
+Peter  Arundell ,11,Lotus Climax
+Jack Brabham,11,Brabham Climax
+Jo Siffert,7,Brabham BRM
+Bob Anderson,5,Brabham Climax
+Tony Maggs,4,BRM
+Mike Spence,4,Lotus Climax
+Innes Ireland,4,BRP BRM
+Jo Bonnier,3,Brabham Climax
+Chris Amon,2,Lotus BRM
+Maurice  Trintignant,2,BRM
+Walt   Hansgen,2,Lotus Climax
+Mike Hailwood,1,Lotus BRM
+Phil Hill,1,Cooper Climax
+Trevor  Taylor ,1,BRP BRM
+Pedro Rodriguez,1,Ferrari
+1965
+Jim Clark,54,Lotus Climax
+Graham Hill,40,BRM
+Jackie Stewart,33,BRM
+Dan Gurney,25,Brabham Climax
+John Surtees,17,Ferrari
+Lorenzo Bandini,13,Ferrari
+Richie Ginther,11,Honda
+Mike Spence,10,Lotus Climax
+Bruce McLaren,10,Cooper Climax
+Jack Brabham,9,Brabham Climax
+Denny Hulme,5,Brabham Climax
+Jo Siffert,5,Brabham BRM
+Jochen Rindt,4,Cooper Climax
+Pedro Rodriguez,2,Ferrari
+Ronnie Bucknum,2,Honda
+Richard Attwood,2,Lotus BRM
+1966
+Jack Brabham,42,Brabham Repco
+John Surtees,28,Cooper Maserati
+Jochen Rindt,22,Cooper Maserati
+Denny Hulme,18,Brabham Repco
+Graham Hill,17,BRM
+Jim Clark,16,Lotus BRM
+Jackie Stewart,14,BRM
+Mike  Parkes ,12,Ferrari
+Lorenzo Bandini,12,Ferrari
+Ludovico Scarfiotti,9,Ferrari
+Richie Ginther,5,Honda
+Dan Gurney,4,Eagle Climax
+Mike Spence,4,Lotus BRM
+Bob Bondurant,3,Eagle Weslake
+Jo Siffert,3,Cooper Maserati
+Bruce McLaren,3,McLaren Ford
+John  Taylor ,1,Brabham BRM
+Bob Anderson,1,Brabham Climax
+Peter  Arundell ,1,Lotus BRM
+Jo Bonnier,1,Cooper Maserati
+1967
+Denny Hulme,51,Brabham Repco
+Jack Brabham,46,Brabham Repco
+Jim Clark,41,Lotus Ford
+John Surtees,20,Honda
+Chris Amon,20,Ferrari
+Pedro Rodriguez,15,Cooper Maserati
+Graham Hill,15,Lotus Ford
+Dan Gurney,13,Eagle Climax
+Jackie Stewart,10,BRM
+Mike Spence,9,BRM
+John Love,6,Cooper Climax
+Jochen Rindt,6,Cooper Maserati
+Jo Siffert,6,Cooper Maserati
+Bruce McLaren,3,McLaren BRM
+Jo Bonnier,3,Cooper Maserati
+Bob Anderson,2,Brabham Climax
+Mike  Parkes ,2,Ferrari
+Chris   Irwin,2,BRM
+Ludovico Scarfiotti,1,Eagle Weslake
+Guy  Ligier ,1,Brabham Repco
+Jacky Ickx,1,Cooper Maserati
+1968
+Graham Hill,48,Lotus Ford
+Jackie Stewart,36,Matra Ford
+Denny Hulme,33,McLaren Ford
+Jacky Ickx,27,Ferrari
+Bruce McLaren,22,McLaren Ford
+Pedro Rodriguez,18,BRM
+Jo Siffert,12,Lotus Ford
+John Surtees,12,Honda
+Jean-Pierre Beltoise,11,Matra
+Chris Amon,10,Ferrari
+Jim Clark,9,Lotus Ford
+Jochen Rindt,8,Brabham Repco
+Richard Attwood,6,BRM
+Johnny  Servoz-Gavin ,6,Matra Ford
+Jackie Oliver,6,Lotus Ford
+Ludovico Scarfiotti,6,Cooper BRM
+Lucien Bianchi,5,Cooper BRM
+Vic  Elford ,5,Cooper BRM
+Brian   Redman,4,Cooper BRM
+Piers   Courage,4,BRM
+Dan Gurney,3,McLaren Ford
+Jo Bonnier,3,Honda
+Silvio  Moser ,2,Brabham Repco
+Jack Brabham,2,Brabham Repco
+1969
+Jackie Stewart,63,Matra Ford
+Jacky Ickx,37,Brabham Ford
+Bruce McLaren,26,McLaren Ford
+Jochen Rindt,22,Lotus Ford
+Jean-Pierre Beltoise,21,Matra Ford
+Denny Hulme,20,McLaren Ford
+Graham Hill,19,Lotus Ford
+Piers   Courage,16,Brabham Ford
+Jo Siffert,15,Lotus Ford
+Jack Brabham,14,Brabham Ford
+John Surtees,6,BRM
+Chris Amon,4,Ferrari
+Richard Attwood,3,null
+Vic  Elford ,3,McLaren Ford
+Pedro Rodriguez,3,Ferrari
+Johnny  Servoz-Gavin ,1,Matra Ford
+Silvio  Moser ,1,Brabham Ford
+Jackie Oliver,1,BRM
+1970
+Jochen Rindt,45,Lotus Ford
+Jacky Ickx,40,Ferrari
+Clay Regazzoni,33,Ferrari
+Denny Hulme,27,McLaren Ford
+Jack Brabham,25,Brabham Ford
+Jackie Stewart,25,Tyrrell Ford
+Pedro Rodriguez,23,BRM
+Chris Amon,23,March Ford
+Jean-Pierre Beltoise,16,Matra
+Emerson Fittipaldi,12,Lotus Ford
+Rolf Stommelen,10,Brabham Ford
+Henri Pescarolo,8,Matra
+Graham Hill,7,Lotus Ford
+Bruce McLaren,6,McLaren Ford
+Mario Andretti,4,March Ford
+Reine   Wisell,4,Lotus Ford
+Ignazio  Giunti ,3,Ferrari
+John Surtees,3,Surtees Ford
+John   Miles,2,Lotus Ford
+Johnny  Servoz-Gavin ,2,March Ford
+Jackie Oliver,2,BRM
+Dan Gurney,1,McLaren Ford
+Francois  Cevert ,1,March Ford
+Peter  Gethin ,1,McLaren Ford
+Derek Bell,1,Surtees Ford
+1971
+Jackie Stewart,62,Tyrrell Ford
+Ronnie Peterson,33,null
+Francois  Cevert ,26,Tyrrell Ford
+Jacky Ickx,19,Ferrari
+Jo Siffert,19,BRM
+Emerson Fittipaldi,16,Lotus Ford
+Clay Regazzoni,13,Ferrari
+Mario Andretti,12,Ferrari
+Peter  Gethin ,9,BRM
+Pedro Rodriguez,9,BRM
+Chris Amon,9,Matra
+Reine   Wisell,9,Lotus Ford
+Denny Hulme,9,McLaren Ford
+Tim   Schenken,5,Brabham Ford
+Howden  Ganley ,5,BRM
+Mark Donohue,4,null
+Henri Pescarolo,4,null
+Mike Hailwood,3,Surtees Ford
+John Surtees,3,Surtees Ford
+Rolf Stommelen,3,Surtees Ford
+Graham Hill,2,Brabham Ford
+Jean-Pierre Beltoise,1,Matra
+1972
+Emerson Fittipaldi,61,Lotus Ford
+Jackie Stewart,45,Tyrrell Ford
+Denny Hulme,39,McLaren Ford
+Jacky Ickx,27,Ferrari
+Peter   Revson,23,McLaren Ford
+Francois  Cevert ,15,Tyrrell Ford
+Clay Regazzoni,15,Ferrari
+Mike Hailwood,13,Surtees Ford
+Ronnie Peterson,12,March Ford
+Chris Amon,12,Matra
+Jean-Pierre Beltoise,9,BRM
+Mario Andretti,4,Ferrari
+Howden  Ganley ,4,BRM
+Brian   Redman,4,BRM
+Graham Hill,4,Brabham Ford
+Andrea de Adamich ,3,Surtees Ford
+Carlos Reutemann,3,Brabham Ford
+Carlos Pace,3,March Ford
+Tim   Schenken,2,Surtees Ford
+Arturo Merzario,1,Ferrari
+Peter  Gethin ,1,BRM
+1973
+Jackie Stewart,71,Tyrrell Ford
+Emerson Fittipaldi,55,Lotus Ford
+Ronnie Peterson,52,Lotus Ford
+Francois  Cevert ,47,Tyrrell Ford
+Peter   Revson,38,McLaren Ford
+Denny Hulme,26,McLaren Ford
+Carlos Reutemann,16,Brabham Ford
+James Hunt,14,March Ford
+Jacky Ickx,12,Iso Marlboro Ford
+Jean-Pierre Beltoise,9,BRM
+Carlos Pace,7,Surtees Ford
+Arturo Merzario,6,Ferrari
+George  Follmer ,5,Shadow Ford
+Jackie Oliver,4,Shadow Ford
+Andrea de Adamich ,3,Brabham Ford
+Wilson Fittipaldi,3,Brabham Ford
+Niki Lauda,2,BRM
+Clay Regazzoni,2,BRM
+Chris Amon,1,Tyrrell Ford
+Gijs van Lennep,1,Iso Marlboro Ford
+Howden  Ganley ,1,Iso Marlboro Ford
+1974
+Emerson Fittipaldi,55,McLaren Ford
+Clay Regazzoni,52,Ferrari
+Jody Scheckter,45,Tyrrell Ford
+Niki Lauda,38,Ferrari
+Ronnie Peterson,35,Lotus Ford
+Carlos Reutemann,32,Brabham Ford
+Denny Hulme,20,McLaren Ford
+James Hunt,15,Hesketh Ford
+Patrick Depailler,14,Tyrrell Ford
+Jacky Ickx,12,Lotus Ford
+Mike Hailwood,12,McLaren Ford
+Carlos Pace,11,Brabham Ford
+Jean-Pierre Beltoise,10,BRM
+Jean-Pierre Jarier,6,Shadow Ford
+John Watson,6,Brabham Ford
+Hans-Joachim Stuck,5,March Ford
+Arturo Merzario,4,Iso Marlboro Ford
+Graham Hill,1,Lola Ford
+Tom Pryce,1,Shadow Ford
+Vittorio Brambilla,1,March Ford
+1975
+Niki Lauda,64.5,Ferrari
+Emerson Fittipaldi,45,McLaren Ford
+Carlos Reutemann,37,Brabham Ford
+James Hunt,33,Hesketh Ford
+Clay Regazzoni,25,Ferrari
+Carlos Pace,24,Brabham Ford
+Jody Scheckter,20,Tyrrell Ford
+Jochen Mass,20,McLaren Ford
+Patrick Depailler,12,Tyrrell Ford
+Tom Pryce,8,Shadow Ford
+Vittorio Brambilla,6.5,March Ford
+Jacques Laffite,6,Frank Williams Racing Cars/Williams
+Ronnie Peterson,6,Lotus Ford
+Mario Andretti,5,Parnelli Ford
+Mark Donohue,4,March Ford
+Jacky Ickx,3,Lotus Ford
+Alan  Jones,2,Hill Ford
+Jean-Pierre Jarier,1.5,Shadow Ford
+Tony Brise,1,Hill Ford
+Gijs van Lennep,1,Ensign Ford
+Lella Lombardi,0.5,Frank Williams Racing Cars/Williams
+1976
+James Hunt,69,McLaren Ford
+Niki Lauda,68,Ferrari
+Jody Scheckter,49,Tyrrell Ford
+Patrick Depailler,39,Tyrrell Ford
+Clay Regazzoni,31,Ferrari
+Mario Andretti,22,Lotus Ford
+John Watson,20,Penske Ford
+Jacques Laffite,20,Ligier Matra
+Jochen Mass,19,McLaren Ford
+Gunnar Nilsson,11,Lotus Ford
+Ronnie Peterson,10,March Ford
+Tom Pryce,10,Shadow Ford
+Hans-Joachim Stuck,8,March Ford
+Carlos Pace,7,Brabham Alfa Romeo
+Alan  Jones,7,Surtees Ford
+Carlos Reutemann,3,Ferrari
+Emerson Fittipaldi,3,Fittipaldi Ford
+Chris Amon,2,Wolf-Williams
+Rolf Stommelen,1,Brabham Alfa Romeo
+Vittorio Brambilla,1,March Ford
+1977
+Niki Lauda,72,Ferrari
+Jody Scheckter,55,Wolf Ford
+Mario Andretti,47,Lotus Ford
+Carlos Reutemann,42,Ferrari
+James Hunt,40,McLaren Ford
+Jochen Mass,25,McLaren Ford
+Alan  Jones,22,Shadow Ford
+Gunnar Nilsson,20,Lotus Ford
+Patrick Depailler,20,Tyrrell Ford
+Jacques Laffite,18,Ligier Matra
+Hans-Joachim Stuck,12,Brabham Alfa Romeo
+Emerson Fittipaldi,11,Fittipaldi Ford
+John Watson,9,Brabham Alfa Romeo
+Ronnie Peterson,7,Tyrrell Ford
+Carlos Pace,6,Brabham Alfa Romeo
+Vittorio Brambilla,6,Surtees Ford
+Patrick Tambay,5,Ensign Ford
+Clay Regazzoni,5,Ensign Ford
+Renzo Zorzi,1,Shadow Ford
+Jean-Pierre Jarier,1,Ligier Matra
+Riccardo Patrese,1,Shadow Ford
+1978
+Mario Andretti,64,Lotus Ford
+Ronnie Peterson,51,Lotus Ford
+Carlos Reutemann,48,Ferrari
+Niki Lauda,44,Brabham Alfa Romeo
+Patrick Depailler,34,Tyrrell Ford
+John Watson,25,Brabham Alfa Romeo
+Jody Scheckter,24,Wolf Ford
+Jacques Laffite,19,Ligier Matra
+Gilles Villeneuve,17,Ferrari
+Emerson Fittipaldi,17,Fittipaldi Ford
+Alan  Jones,11,Williams Ford
+Riccardo Patrese,11,Arrows Ford
+James Hunt,8,McLaren Ford
+Patrick Tambay,8,McLaren Ford
+Didier Pironi,7,Tyrrell Ford
+Clay Regazzoni,4,Shadow Ford
+Jean-Pierre Jabouille,3,Renault
+Hans-Joachim Stuck,2,Shadow Ford
+Hector Rebaque,1,Lotus Ford
+Vittorio Brambilla,1,Surtees Ford
+Derek Daly,1,Ensign Ford
+1979
+Jody Scheckter,51,Ferrari
+Gilles Villeneuve,47,Ferrari
+Alan  Jones,40,Williams Ford
+Jacques Laffite,36,Ligier Ford
+Clay Regazzoni,29,Williams Ford
+Patrick Depailler,20,Ligier Ford
+Carlos Reutemann,20,Lotus Ford
+Rene Arnoux,17,Renault
+John Watson,15,McLaren Ford
+Didier Pironi,14,Tyrrell Ford
+Jean-Pierre Jarier,14,Tyrrell Ford
+Mario Andretti,14,Lotus Ford
+Jean-Pierre Jabouille,9,Renault
+Niki Lauda,4,Brabham Ford
+Nelson Piquet,3,Brabham Ford
+Elio de Angelis,3,Shadow Ford
+Jacky Ickx,3,Ligier Ford
+Jochen Mass,3,Arrows Ford
+Riccardo Patrese,2,Arrows Ford
+Hans-Joachim Stuck,2,ATS Ford
+Emerson Fittipaldi,1,Fittipaldi Ford
+1980
+Alan  Jones,67,Williams Ford
+Nelson Piquet,54,Brabham Ford
+Carlos Reutemann,42,Williams Ford
+Jacques Laffite,34,Ligier Ford
+Didier Pironi,32,Ligier Ford
+Rene Arnoux,29,Renault
+Elio de Angelis,13,Lotus Ford
+Jean-Pierre Jabouille,9,Renault
+Riccardo Patrese,7,Arrows Ford
+Keke Rosberg,6,Fittipaldi Ford
+Derek Daly,6,Tyrrell Ford
+John Watson,6,McLaren Ford
+Jean-Pierre Jarier,6,Tyrrell Ford
+Gilles Villeneuve,6,Ferrari
+Emerson Fittipaldi,5,Fittipaldi Ford
+Alain Prost,5,McLaren Ford
+Jochen Mass,4,Arrows Ford
+Bruno Giacomelli,4,Alfa Romeo
+Jody Scheckter,2,Ferrari
+Hector Rebaque,1,Brabham Ford
+Mario Andretti,1,Lotus Ford
+1981
+Nelson Piquet,50,Brabham Ford
+Carlos Reutemann,49,Williams Ford
+Alan  Jones,46,Williams Ford
+Jacques Laffite,44,Ligier Matra
+Alain Prost,43,Renault
+John Watson,27,McLaren Ford
+Gilles Villeneuve,25,Ferrari
+Elio de Angelis,14,Lotus Ford
+Rene Arnoux,11,Renault
+Hector Rebaque,11,Brabham Ford
+Riccardo Patrese,10,Arrows Ford
+Eddie  Cheever,10,Tyrrell Ford
+Didier Pironi,9,Ferrari
+Nigel Mansell,8,Lotus Ford
+Bruno Giacomelli,7,Alfa Romeo
+Marc Surer,4,Theodore Ford
+Mario Andretti,3,Alfa Romeo
+Patrick Tambay,1,Ligier Matra
+Andrea de Cesaris,1,McLaren Ford
+Slim Borgudd,1,ATS Ford
+Eliseo Salazar,1,Ensign Ford
+1982
+Keke Rosberg,44,Williams Ford
+Didier Pironi,39,Ferrari
+John Watson,39,McLaren Ford
+Alain Prost,34,Renault
+Niki Lauda,30,McLaren Ford
+Rene Arnoux,28,Renault
+Patrick Tambay,25,Ferrari
+Michele Alboreto,25,Tyrrell Ford
+Elio de Angelis,23,Lotus Ford
+Riccardo Patrese,21,Brabham BMW
+Nelson Piquet,20,Brabham BMW
+Eddie  Cheever,15,Ligier Matra
+Derek Daly,8,Williams Ford
+Nigel Mansell,7,Lotus Ford
+Carlos Reutemann,6,Williams Ford
+Gilles Villeneuve,6,Ferrari
+Andrea de Cesaris,5,Alfa Romeo
+Jacques Laffite,5,Ligier Matra
+Mario Andretti,4,Ferrari
+Jean-Pierre Jarier,3,Osella Ford
+Marc Surer,3,Arrows Ford
+Manfred Winkelhock,2,ATS Ford
+Eliseo Salazar,2,ATS Ford
+Bruno Giacomelli,2,Alfa Romeo
+Mauro Baldi,2,Arrows Ford
+Chico Serra,1,Fittipaldi Ford
+1983
+Nelson Piquet,59,Brabham BMW
+Alain Prost,57,Renault
+Rene Arnoux,49,Ferrari
+Patrick Tambay,40,Ferrari
+Keke Rosberg,27,Williams Honda
+John Watson,22,McLaren Ford
+Eddie  Cheever,22,Renault
+Andrea de Cesaris,15,Alfa Romeo
+Riccardo Patrese,13,Brabham BMW
+Niki Lauda,12,McLaren TAG
+Jacques Laffite,11,Williams Honda
+Michele Alboreto,10,Tyrrell Ford
+Nigel Mansell,10,Lotus Renault
+Derek Warwick,9,Toleman Hart
+Marc Surer,4,Arrows Ford
+Mauro Baldi,3,Alfa Romeo
+Elio de Angelis,2,Lotus Renault
+Danny Sullivan,2,Tyrrell Ford
+Bruno Giacomelli,1,Toleman Hart
+Johnny Cecotto,1,Theodore Ford
+1984
+Niki Lauda,72,McLaren TAG
+Alain Prost,71.5,McLaren TAG
+Elio de Angelis,34,Lotus Renault
+Michele Alboreto,30.5,Ferrari
+Nelson Piquet,29,Brabham BMW
+Rene Arnoux,27,Ferrari
+Derek Warwick,23,Renault
+Keke Rosberg,20.5,Williams Honda
+Ayrton Senna,13,Toleman Hart
+Nigel Mansell,13,Lotus Renault
+Patrick Tambay,11,Renault
+Teo Fabi,9,Brabham BMW
+Riccardo Patrese,8,Alfa Romeo
+Jacques Laffite,5,Williams Honda
+Thierry Boutsen,5,Arrows BMW
+Eddie  Cheever,3,Alfa Romeo
+Stefan Johansson,3,Toleman Hart
+Andrea de Cesaris,3,Ligier Renault
+Piercarlo Ghinzani,2,Osella Alfa Romeo
+Marc Surer,1,Arrows BMW
+1985
+Alain Prost,73,McLaren TAG
+Michele Alboreto,53,Ferrari
+Keke Rosberg,40,Williams Honda
+Ayrton Senna,38,Lotus Renault
+Elio de Angelis,33,Lotus Renault
+Nigel Mansell,31,Williams Honda
+Stefan Johansson,26,Ferrari
+Nelson Piquet,21,Brabham BMW
+Jacques Laffite,16,Ligier Renault
+Niki Lauda,14,McLaren TAG
+Thierry Boutsen,11,Arrows BMW
+Patrick Tambay,11,Renault
+Marc Surer,5,Brabham BMW
+Derek Warwick,5,Renault
+Philippe Streiff,4,Ligier Renault
+Stefan Bellof,4,Tyrrell Renault
+Andrea de Cesaris,3,Ligier Renault
+Rene Arnoux,3,Ferrari
+Ivan Capelli,3,Tyrrell Renault
+Gerhard Berger,3,Arrows BMW
+1986
+Alain Prost,72,McLaren TAG
+Nigel Mansell,70,Williams Honda
+Nelson Piquet,69,Williams Honda
+Ayrton Senna,55,Lotus Renault
+Stefan Johansson,23,Ferrari
+Keke Rosberg,22,McLaren TAG
+Gerhard Berger,17,Benetton BMW
+Jacques Laffite,14,Ligier Renault
+Michele Alboreto,14,Ferrari
+Rene Arnoux,14,Ligier Renault
+Martin Brundle,8,Tyrrell Renault
+Alan  Jones,4,Lola Ford
+Johnny Dumfries,3,Lotus Renault
+Philippe Streiff,3,Tyrrell Renault
+Teo Fabi,2,Benetton BMW
+Patrick Tambay,2,Lola Ford
+Riccardo Patrese,2,Brabham BMW
+Philippe Alliot,1,Ligier Renault
+Christian Danner,1,Arrows BMW
+1987
+Nelson Piquet,73,Williams Honda
+Nigel Mansell,61,Williams Honda
+Ayrton Senna,57,Lotus Honda
+Alain Prost,46,McLaren TAG
+Gerhard Berger,36,Ferrari
+Stefan Johansson,30,McLaren TAG
+Michele Alboreto,17,Ferrari
+Thierry Boutsen,16,Benetton Ford
+Teo Fabi,12,Benetton Ford
+Eddie  Cheever,8,Arrows Megatron
+Jonathan  Palmer,7,Tyrrell Ford
+Satoru Nakajima,7,Lotus Honda
+Riccardo Patrese,6,Williams Honda
+Andrea de Cesaris,4,Brabham BMW
+Philippe Streiff,4,Tyrrell Ford
+Derek Warwick,3,Arrows Megatron
+Philippe Alliot,3,Lola Ford
+Martin Brundle,2,Zakspeed
+Rene Arnoux,1,Ligier Megatron
+Ivan Capelli,1,March Ford
+Roberto Moreno,1,AGS Ford
+1988
+Ayrton Senna,90,McLaren Honda
+Alain Prost,87,McLaren Honda
+Gerhard Berger,41,Ferrari
+Thierry Boutsen,27,Benetton Ford
+Michele Alboreto,24,Ferrari
+Nelson Piquet,22,Lotus Honda
+Ivan Capelli,17,March Judd
+Derek Warwick,17,Arrows Megatron
+Nigel Mansell,12,Williams Judd
+Alessandro Nannini,12,Benetton Ford
+Riccardo Patrese,8,Williams Judd
+Eddie  Cheever,6,Arrows Megatron
+Mauricio Gugelmin,5,March Judd
+Jonathan  Palmer,5,Tyrrell Ford
+Andrea de Cesaris,3,Rial Ford
+Pierluigi Martini,1,Minardi Ford
+Satoru Nakajima,1,Lotus Honda
+1989
+Alain Prost,76,McLaren Honda
+Ayrton Senna,60,McLaren Honda
+Riccardo Patrese,40,Williams Renault
+Nigel Mansell,38,Ferrari
+Thierry Boutsen,37,Williams Renault
+Alessandro Nannini,32,Benetton Ford
+Gerhard Berger,21,Ferrari
+Nelson Piquet,12,Lotus Judd
+Jean Alesi,8,Tyrrell Ford
+Derek Warwick,7,Arrows Ford
+Stefan Johansson,6,Onyx Ford
+Michele Alboreto,6,Lola Lamborghini
+Eddie  Cheever,6,Arrows Ford
+Johnny Herbert,5,Tyrrell Ford
+Pierluigi Martini,5,Minardi Ford
+Andrea de Cesaris,4,Dallara Ford
+Mauricio Gugelmin,4,March Judd
+Stefano Modena,4,Brabham Judd
+Alex Caffi,4,Dallara Ford
+Martin Brundle,4,Brabham Judd
+Christian Danner,3,Rial Ford
+Satoru Nakajima,3,Lotus Judd
+Rene Arnoux,2,Ligier Ford
+Emanuele Pirro,2,Benetton Ford
+Jonathan  Palmer,2,Tyrrell Ford
+Gabriele Tarquini,1,AGS Ford
+Philippe Alliot,1,Lola Lamborghini
+Olivier Grouillard,1,Ligier Ford
+Luis Perez-Sala,1,Minardi Ford
+1990
+Ayrton Senna,78,McLaren Honda
+Alain Prost,71,Ferrari
+Nelson Piquet,43,Benetton Ford
+Gerhard Berger,43,McLaren Honda
+Nigel Mansell,37,Ferrari
+Thierry Boutsen,34,Williams Renault
+Riccardo Patrese,23,Williams Renault
+Alessandro Nannini,21,Benetton Ford
+Jean Alesi,13,Tyrrell Ford
+Ivan Capelli,6,Leyton House Judd
+Roberto Moreno,6,Benetton Ford
+Aguri Suzuki,6,Lola Lamborghini
+Eric Bernard,5,Lola Lamborghini
+Derek Warwick,3,Lotus Lamborghini
+Satoru Nakajima,3,Tyrrell Ford
+Alex Caffi,2,Arrows Ford
+Stefano Modena,2,Brabham Judd
+Mauricio Gugelmin,1,Leyton House Judd
+1991
+Ayrton Senna,96,McLaren Honda
+Nigel Mansell,72,Williams Renault
+Riccardo Patrese,53,Williams Renault
+Gerhard Berger,43,McLaren Honda
+Alain Prost,34,Ferrari
+Nelson Piquet,26.5,Benetton Ford
+Jean Alesi,21,Ferrari
+Stefano Modena,10,Tyrrell Honda
+Andrea de Cesaris,9,Jordan Ford
+Roberto Moreno,8,Minardi Ferrari
+Pierluigi Martini,6,Minardi Ferrari
+Jyrki Jarvilehto,4,Dallara Judd
+Bertrand Gachot,4,Jordan Ford
+Michael Schumacher,4,Benetton Ford
+Mika Hakkinen,2,Lotus Judd
+Martin Brundle,2,Brabham Yamaha
+Satoru Nakajima,2,Tyrrell Honda
+Julian Bailey,1,Lotus Judd
+Eric Bernard,1,Lola Ford
+Ivan Capelli,1,Leyton House Ilmor
+Aguri Suzuki,1,Lola Ford
+Emanuele Pirro,1,Dallara Judd
+Mark Blundell,1,Brabham Yamaha
+Gianni Morbidelli,0.5,Ferrari
+1992
+Nigel Mansell,108,Williams Renault
+Riccardo Patrese,56,Williams Renault
+Michael Schumacher,53,Benetton Ford
+Ayrton Senna,50,McLaren Honda
+Gerhard Berger,49,McLaren Honda
+Martin Brundle,38,Benetton Ford
+Jean Alesi,18,Ferrari
+Mika Hakkinen,11,Lotus Ford
+Andrea de Cesaris,8,Tyrrell Ilmor
+Michele Alboreto,6,Footwork Mugen Honda
+Erik Comas,4,Ligier Renault
+Karl Wendlinger,3,March Ilmor
+Ivan Capelli,3,Ferrari
+Thierry Boutsen,2,Ligier Renault
+Pierluigi Martini,2,Dallara Ferrari
+Johnny Herbert,2,Lotus Ford
+Stefano Modena,1,Jordan Yamaha
+Christian Fittipaldi,1,Minardi Lamborghini
+Bertrand Gachot,1,Venturi Lamborghini
+1993
+Alain Prost,99,Williams Renault
+Ayrton Senna,73,McLaren Ford
+Damon Hill,69,Williams Renault
+Michael Schumacher,52,Benetton Ford
+Riccardo Patrese,20,Benetton Ford
+Jean Alesi,16,Ferrari
+Martin Brundle,13,Ligier Renault
+Gerhard Berger,12,Ferrari
+Johnny Herbert,11,Lotus Ford
+Mark Blundell,10,Ligier Renault
+Michael Andretti,7,McLaren Ford
+Karl Wendlinger,7,Sauber
+Christian Fittipaldi,5,Minardi Ford
+Jyrki Jarvilehto,5,Sauber
+Mika Hakkinen,4,McLaren Ford
+Derek Warwick,4,Footwork Mugen Honda
+Philippe Alliot,2,Larrousse Lamborghini
+Rubens Barrichello,2,Jordan Hart
+Fabrizio Barbazza,2,Minardi Ford
+Alessandro Zanardi,1,Lotus Ford
+Erik Comas,1,Larrousse Lamborghini
+Eddie Irvine,1,Jordan Hart
+1994
+Michael Schumacher,92,Benetton Ford
+Damon Hill,91,Williams Renault
+Gerhard Berger,41,Ferrari
+Mika Hakkinen,26,McLaren Peugeot
+Jean Alesi,24,Ferrari
+Rubens Barrichello,19,Jordan Hart
+Martin Brundle,16,McLaren Peugeot
+David Coulthard,14,Williams Renault
+Nigel Mansell,13,Williams Renault
+Jos Verstappen,10,Benetton Ford
+Olivier Panis,9,Ligier Renault
+Mark Blundell,8,Tyrrell Yamaha
+Heinz-Harald Frentzen,7,Sauber Mercedes
+Nicola Larini,6,Ferrari
+Christian Fittipaldi,6,Footwork Ford
+Eddie Irvine,6,Jordan Hart
+Ukyo Katayama,5,Tyrrell Yamaha
+Eric Bernard,4,Lotus Mugen Honda
+Karl Wendlinger,4,Sauber Mercedes
+Andrea de Cesaris,4,Sauber Mercedes
+Pierluigi Martini,4,Minardi Ford
+Gianni Morbidelli,3,Footwork Ford
+Erik Comas,2,Larrousse Ford
+Michele Alboreto,1,Minardi Ford
+Jyrki Jarvilehto,1,Sauber Mercedes
+1995
+Michael Schumacher,102,Benetton Renault
+Damon Hill,69,Williams Renault
+David Coulthard,49,Williams Renault
+Johnny Herbert,45,Benetton Renault
+Jean Alesi,42,Ferrari
+Gerhard Berger,31,Ferrari
+Mika Hakkinen,17,McLaren Mercedes
+Olivier Panis,16,Ligier Mugen Honda
+Heinz-Harald Frentzen,15,Sauber Ford
+Mark Blundell,13,McLaren Mercedes
+Rubens Barrichello,11,Jordan Peugeot
+Eddie Irvine,10,Jordan Peugeot
+Martin Brundle,7,Ligier Mugen Honda
+Gianni Morbidelli,5,Footwork Hart
+Mika Salo,5,Tyrrell Yamaha
+Jean-Christophe Boullion,3,Sauber Ford
+Aguri Suzuki,1,Ligier Mugen Honda
+Pedro Lamy,1,Minardi Ford
+1996
+Damon Hill,97,Williams Renault
+Jacques Villeneuve,78,Williams Renault
+Michael Schumacher,59,Ferrari
+Jean Alesi,47,Benetton Renault
+Mika Hakkinen,31,McLaren Mercedes
+Gerhard Berger,21,Benetton Renault
+David Coulthard,18,McLaren Mercedes
+Rubens Barrichello,14,Jordan Peugeot
+Olivier Panis,13,Ligier Mugen Honda
+Eddie Irvine,11,Ferrari
+Martin Brundle,8,Jordan Peugeot
+Heinz-Harald Frentzen,7,Sauber Ford
+Mika Salo,5,Tyrrell Yamaha
+Johnny Herbert,4,Sauber Ford
+Pedro Diniz,2,Ligier Mugen Honda
+Jos Verstappen,1,Footwork Hart
+1997
+Jacques Villeneuve,81,Williams Renault
+Michael Schumacher,78,Ferrari
+Heinz-Harald Frentzen,42,Williams Renault
+David Coulthard,36,McLaren Mercedes
+Jean Alesi,36,Benetton Renault
+Gerhard Berger,27,Benetton Renault
+Mika Hakkinen,27,McLaren Mercedes
+Eddie Irvine,24,Ferrari
+Giancarlo Fisichella,20,Jordan Peugeot
+Olivier Panis,16,Prost Mugen Honda
+Johnny Herbert,15,Sauber Petronas
+Ralf Schumacher,13,Jordan Peugeot
+Damon Hill,7,Arrows Yamaha
+Rubens Barrichello,6,Stewart Ford
+Alexander Wurz,4,Benetton Renault
+Jarno Trulli,3,Prost Mugen Honda
+Mika Salo,2,Tyrrell Ford
+Pedro Diniz,2,Arrows Yamaha
+Shinji Nakano,2,Prost Mugen Honda
+Nicola Larini,1,Sauber Petronas
+1998
+Mika Hakkinen,100,McLaren Mercedes
+Michael Schumacher,86,Ferrari
+David Coulthard,56,McLaren Mercedes
+Eddie Irvine,47,Ferrari
+Jacques Villeneuve,21,Williams Mecachrome
+Damon Hill,20,Jordan Mugen Honda
+Heinz-Harald Frentzen,17,Williams Mecachrome
+Alexander Wurz,17,Benetton Playlife
+Giancarlo Fisichella,16,Benetton Playlife
+Ralf Schumacher,14,Jordan Mugen Honda
+Jean Alesi,9,Sauber Petronas
+Rubens Barrichello,4,Stewart Ford
+Mika Salo,3,Arrows
+Pedro Diniz,3,Arrows
+Johnny Herbert,1,Sauber Petronas
+Jan Magnussen,1,Stewart Ford
+Jarno Trulli,1,Prost Peugeot
+Ricardo Rosset,0,Tyrrell Ford
+Olivier Panis,0,Prost Peugeot
+Toranosuke Takagi,0,Tyrrell Ford
+Shinji Nakano,0,Minardi Ford
+Esteban Tuero,0,Minardi Ford
+Jos Verstappen,0,Stewart Ford
+1999
+Mika Hakkinen,76,McLaren Mercedes
+Eddie Irvine,74,Ferrari
+Heinz-Harald Frentzen,54,Jordan Mugen Honda
+David Coulthard,48,McLaren Mercedes
+Michael Schumacher,44,Ferrari
+Ralf Schumacher,35,Williams Supertec
+Rubens Barrichello,21,Stewart Ford
+Johnny Herbert,15,Stewart Ford
+Giancarlo Fisichella,13,Benetton Playlife
+Mika Salo,10,Ferrari
+Jarno Trulli,7,Prost Peugeot
+Damon Hill,7,Jordan Mugen Honda
+Alexander Wurz,3,Benetton Playlife
+Pedro Diniz,3,Sauber Petronas
+Olivier Panis,2,Prost Peugeot
+Jean Alesi,2,Sauber Petronas
+Pedro de la Rosa,1,Arrows
+Marc Gene,1,Minardi Ford
+2000
+Michael Schumacher,108,Ferrari
+Mika Hakkinen,89,McLaren Mercedes
+David Coulthard,73,McLaren Mercedes
+Rubens Barrichello,62,Ferrari
+Ralf Schumacher,24,Williams BMW
+Giancarlo Fisichella,18,Benetton Playlife
+Jacques Villeneuve,17,BAR Honda
+Jenson Button,12,Williams BMW
+Heinz-Harald Frentzen,11,Jordan Mugen Honda
+Jarno Trulli,6,Jordan Mugen Honda
+Mika Salo,6,Sauber Petronas
+Jos Verstappen,5,Arrows Supertec
+Eddie Irvine,4,Jaguar Cosworth
+Ricardo Zonta,3,BAR Honda
+Alexander Wurz,2,Benetton Playlife
+Pedro de la Rosa,2,Arrows Supertec
+Pedro Diniz,0,Sauber Petronas
+Johnny Herbert,0,Jaguar Cosworth
+Marc Gene,0,Minardi Fondmetal
+Gaston Mazzacane,0,Minardi Fondmetal
+Nick Heidfeld,0,Prost Peugeot
+Jean Alesi,0,Prost Peugeot
+Luciano Burti,0,Jaguar Cosworth
+2001
+Michael Schumacher,123,Ferrari
+David Coulthard,65,McLaren Mercedes
+Rubens Barrichello,56,Ferrari
+Ralf Schumacher,49,Williams BMW
+Mika Hakkinen,37,McLaren Mercedes
+Juan Pablo Montoya,31,Williams BMW
+Jacques Villeneuve,12,BAR Honda
+Nick Heidfeld,12,Sauber Petronas
+Jarno Trulli,12,Jordan Honda
+Kimi Räikkönen,9,Sauber Petronas
+Giancarlo Fisichella,8,Benetton Renault
+Eddie Irvine,6,Jaguar Cosworth
+Heinz-Harald Frentzen,6,Prost Acer
+Olivier Panis,5,BAR Honda
+Jean Alesi,5,Jordan Honda
+Pedro de la Rosa,3,Jaguar Cosworth
+Jenson Button,2,Benetton Renault
+Jos Verstappen,1,Arrows Asiatech
+2002
+Michael Schumacher,144,Ferrari
+Rubens Barrichello,77,Ferrari
+Juan Pablo Montoya,50,Williams BMW
+Ralf Schumacher,42,Williams BMW
+David Coulthard,41,McLaren Mercedes
+Kimi Räikkönen,24,McLaren Mercedes
+Jenson Button,14,Renault
+Jarno Trulli,9,Renault
+Eddie Irvine,8,Jaguar Cosworth
+Nick Heidfeld,7,Sauber Petronas
+Giancarlo Fisichella,7,Jordan Honda
+Jacques Villeneuve,4,BAR Honda
+Felipe Massa,4,Sauber Petronas
+Olivier Panis,3,BAR Honda
+Takuma Sato,2,Jordan Honda
+Mark Webber,2,Minardi Asiatech
+Mika Salo,2,Toyota
+Heinz-Harald Frentzen,2,Sauber Petronas
+Allan McNish,0,Toyota
+Alex Yoong,0,Minardi Asiatech
+Pedro de la Rosa,0,Jaguar Cosworth
+Enrique Bernoldi,0,Arrows Cosworth
+2003
+Michael Schumacher,93,Ferrari
+Kimi Räikkönen,91,McLaren Mercedes
+Juan Pablo Montoya,82,Williams BMW
+Rubens Barrichello,65,Ferrari
+Ralf Schumacher,58,Williams BMW
+Fernando Alonso,55,Renault
+David Coulthard,51,McLaren Mercedes
+Jarno Trulli,33,Renault
+Jenson Button,17,BAR Honda
+Mark Webber,17,Jaguar Cosworth
+Heinz-Harald Frentzen,13,Sauber Petronas
+Giancarlo Fisichella,12,Jordan Ford
+Cristiano da Matta,10,Toyota
+Nick Heidfeld,6,Sauber Petronas
+Olivier Panis,6,Toyota
+Jacques Villeneuve,6,BAR Honda
+Marc Gene,4,Williams BMW
+Takuma Sato,3,BAR Honda
+Ralph Firman,1,Jordan Ford
+Justin Wilson,1,Jaguar Cosworth
+Antonio Pizzonia,0,Jaguar Cosworth
+Jos Verstappen,0,Minardi Cosworth
+Nicolas Kiesa,0,Minardi Cosworth
+Zsolt Baumgartner,0,Jordan Ford
+2004
+Michael Schumacher,148,Ferrari
+Rubens Barrichello,114,Ferrari
+Jenson Button,85,BAR Honda
+Fernando Alonso,59,Renault
+Juan Pablo Montoya,58,Williams BMW
+Jarno Trulli,46,Toyota
+Kimi Räikkönen,45,McLaren Mercedes
+Takuma Sato,34,BAR Honda
+Ralf Schumacher,24,Williams BMW
+David Coulthard,24,McLaren Mercedes
+Giancarlo Fisichella,22,Sauber Petronas
+Felipe Massa,12,Sauber Petronas
+Mark Webber,7,Jaguar Cosworth
+Olivier Panis,6,Toyota
+Antonio Pizzonia,6,Williams BMW
+Christian Klien,3,Jaguar Cosworth
+Cristiano da Matta,3,Toyota
+Nick Heidfeld,3,Jordan Ford
+Timo Glock,2,Jordan Ford
+Zsolt Baumgartner,1,Minardi Cosworth
+Jacques Villeneuve,0,Renault
+Ricardo Zonta,0,Toyota
+Marc Gene,0,Williams BMW
+Giorgio Pantano,0,Jordan Ford
+Gianmaria Bruni,0,Minardi Cosworth
+2005
+Fernando Alonso,133,Renault
+Kimi Räikkönen,112,McLaren Mercedes
+Michael Schumacher,62,Ferrari
+Juan Pablo Montoya,60,McLaren Mercedes
+Giancarlo Fisichella,58,Renault
+Ralf Schumacher,45,Toyota
+Jarno Trulli,43,Toyota
+Rubens Barrichello,38,Ferrari
+Jenson Button,37,BAR Honda
+Mark Webber,36,Williams BMW
+Nick Heidfeld,28,Williams BMW
+David Coulthard,24,RBR Cosworth
+Felipe Massa,11,Sauber Petronas
+Jacques Villeneuve,9,Sauber Petronas
+Christian Klien,9,RBR Cosworth
+Tiago Monteiro,7,Jordan Toyota
+Alexander Wurz,6,McLaren Mercedes
+Narain Karthikeyan,5,Jordan Toyota
+Christijan Albers,4,Minardi Cosworth
+Pedro de la Rosa,4,McLaren Mercedes
+Patrick Friesacher ,3,Minardi Cosworth
+Antonio Pizzonia,2,Williams BMW
+Takuma Sato,1,BAR Honda
+Vitantonio Liuzzi,1,RBR Cosworth
+Robert Doornbos,0,Minardi Cosworth
+2006
+Fernando Alonso,134,Renault
+Michael Schumacher,121,Ferrari
+Felipe Massa,80,Ferrari
+Giancarlo Fisichella,72,Renault
+Kimi Räikkönen,65,McLaren Mercedes
+Jenson Button,56,Honda
+Rubens Barrichello,30,Honda
+Juan Pablo Montoya,26,McLaren Mercedes
+Nick Heidfeld,23,Sauber BMW
+Ralf Schumacher,20,Toyota
+Pedro de la Rosa,19,McLaren Mercedes
+Jarno Trulli,15,Toyota
+David Coulthard,14,RBR Ferrari
+Mark Webber,7,Williams Cosworth
+Jacques Villeneuve,7,Sauber BMW
+Robert Kubica,6,Sauber BMW
+Nico Rosberg,4,Williams Cosworth
+Christian Klien,2,RBR Ferrari
+Vitantonio Liuzzi,1,STR Cosworth
+Scott Speed,0,STR Cosworth
+Tiago Monteiro,0,MF1 Toyota
+Christijan Albers,0,MF1 Toyota
+Takuma Sato,0,Super Aguri Honda
+Robert Doornbos,0,RBR Ferrari
+Yuji Ide,0,Super Aguri Honda
+Sakon Yamamoto,0,Super Aguri Honda
+Franck Montagny,0,Super Aguri Honda
+2007
+Kimi Räikkönen,110,Ferrari
+Lewis Hamilton,109,McLaren Mercedes
+Fernando Alonso,109,McLaren Mercedes
+Felipe Massa,94,Ferrari
+Nick Heidfeld,61,Sauber BMW
+Robert Kubica,39,Sauber BMW
+Heikki Kovalainen,30,Renault
+Giancarlo Fisichella,21,Renault
+Nico Rosberg,20,Williams Toyota
+David Coulthard,14,Red Bull Renault
+Alexander Wurz,13,Williams Toyota
+Mark Webber,10,Red Bull Renault
+Jarno Trulli,8,Toyota
+Sebastian Vettel,6,STR Ferrari
+Jenson Button,6,Honda
+Ralf Schumacher,5,Toyota
+Takuma Sato,4,Super Aguri Honda
+Vitantonio Liuzzi,3,STR Ferrari
+Adrian Sutil,1,Spyker Ferrari
+Rubens Barrichello,0,Honda
+Scott Speed,0,STR Ferrari
+Kazuki Nakajima,0,Williams Toyota
+Anthony Davidson,0,Super Aguri Honda
+Sakon Yamamoto,0,Spyker Ferrari
+Christijan Albers,0,Spyker Ferrari
+2008
+Lewis Hamilton,98,McLaren Mercedes
+Felipe Massa,97,Ferrari
+Kimi Räikkönen,75,Ferrari
+Robert Kubica,75,Sauber BMW
+Fernando Alonso,61,Renault
+Nick Heidfeld,60,Sauber BMW
+Heikki Kovalainen,53,McLaren Mercedes
+Sebastian Vettel,35,STR Ferrari
+Jarno Trulli,31,Toyota
+Timo Glock,25,Toyota
+Mark Webber,21,Red Bull Renault
+Nelson Piquet,19,Renault
+Nico Rosberg,17,Williams Toyota
+Rubens Barrichello,11,Honda
+Kazuki Nakajima,9,Williams Toyota
+David Coulthard,8,Red Bull Renault
+Sebastien Bourdais,4,STR Ferrari
+Jenson Button,3,Honda
+Giancarlo Fisichella,0,Force India Ferrari
+Adrian Sutil,0,Force India Ferrari
+Takuma Sato,0,Super Aguri Honda
+Anthony Davidson,0,Super Aguri Honda
+2009
+Jenson Button,95,Brawn Mercedes
+Sebastian Vettel,84,RBR Renault
+Rubens Barrichello,77,Brawn Mercedes
+Mark Webber,69.5,RBR Renault
+Lewis Hamilton,49,McLaren Mercedes
+Kimi Räikkönen,48,Ferrari
+Nico Rosberg,34.5,Williams Toyota
+Jarno Trulli,32.5,Toyota
+Fernando Alonso,26,Renault
+Timo Glock,24,Toyota
+Felipe Massa,22,Ferrari
+Heikki Kovalainen,22,McLaren Mercedes
+Nick Heidfeld,19,Sauber BMW
+Robert Kubica,17,Sauber BMW
+Giancarlo Fisichella,8,Ferrari
+Sebastien Buemi,6,STR Ferrari
+Adrian Sutil,5,Force India Mercedes
+Kamui Kobayashi,3,Toyota
+Sebastien Bourdais,2,STR Ferrari
+Kazuki Nakajima,0,Williams Toyota
+Nelson Piquet,0,Renault
+Vitantonio Liuzzi,0,Force India Mercedes
+Romain Grosjean,0,Renault
+Jaime Alguersuari,0,STR Ferrari
+Luca Badoer,0,Ferrari
+2010
+Sebastian Vettel,256,RBR Renault
+Fernando Alonso,252,Ferrari
+Mark Webber,242,RBR Renault
+Lewis Hamilton,240,McLaren Mercedes
+Jenson Button,214,McLaren Mercedes
+Felipe Massa,144,Ferrari
+Nico Rosberg,142,Mercedes
+Robert Kubica,136,Renault
+Michael Schumacher,72,Mercedes
+Rubens Barrichello,47,Williams Cosworth
+Adrian Sutil,47,Force India Mercedes
+Kamui Kobayashi,32,Sauber Ferrari
+Vitaly Petrov,27,Renault
+Nico Hulkenberg,22,Williams Cosworth
+Vitantonio Liuzzi,21,Force India Mercedes
+Sebastien Buemi,8,STR Ferrari
+Pedro de la Rosa,6,Sauber Ferrari
+Nick Heidfeld,6,Sauber Ferrari
+Jaime Alguersuari,5,STR Ferrari
+Heikki Kovalainen,0,Lotus Cosworth
+Jarno Trulli,0,Lotus Cosworth
+Karun Chandhok,0,HRT Cosworth
+Bruno Senna,0,HRT Cosworth
+Lucas di Grassi,0,Virgin Cosworth
+Timo Glock,0,Virgin Cosworth
+Sakon Yamamoto,0,HRT Cosworth
+Christian Klien,0,HRT Cosworth
+2011
+Sebastian Vettel,392,Red Bull Racing Renault
+Jenson Button,270,McLaren Mercedes
+Mark Webber,258,Red Bull Racing Renault
+Fernando Alonso,257,Ferrari
+Lewis Hamilton,227,McLaren Mercedes
+Felipe Massa,118,Ferrari
+Nico Rosberg,89,Mercedes
+Michael Schumacher,76,Mercedes
+Adrian Sutil,42,Force India Mercedes
+Vitaly Petrov,37,Renault
+Nick Heidfeld,34,Renault
+Kamui Kobayashi,30,Sauber Ferrari
+Paul di Resta,27,Force India Mercedes
+Jaime Alguersuari,26,STR Ferrari
+Sebastien Buemi,15,STR Ferrari
+Sergio Perez,14,Sauber Ferrari
+Rubens Barrichello,4,Williams Cosworth
+Bruno Senna,2,Renault
+Pastor Maldonado,1,Williams Cosworth
+Pedro de la Rosa,0,Sauber Ferrari
+Jarno Trulli,0,Lotus Renault
+Heikki Kovalainen,0,Lotus Renault
+Vitantonio Liuzzi,0,HRT Cosworth
+Jerome d'Ambrosio,0,Virgin Cosworth
+Timo Glock,0,Virgin Cosworth
+Narain Karthikeyan,0,HRT Cosworth
+Daniel Ricciardo,0,HRT Cosworth
+Karun Chandhok,0,Lotus Renault
+2012
+Sebastian Vettel,281,Red Bull Racing Renault
+Fernando Alonso,278,Ferrari
+Kimi Räikkönen,207,Lotus Renault
+Lewis Hamilton,190,McLaren Mercedes
+Jenson Button,188,McLaren Mercedes
+Mark Webber,179,Red Bull Racing Renault
+Felipe Massa,122,Ferrari
+Romain Grosjean,96,Lotus Renault
+Nico Rosberg,93,Mercedes
+Sergio Perez,66,Sauber Ferrari
+Nico Hulkenberg,63,Force India Mercedes
+Kamui Kobayashi,60,Sauber Ferrari
+Michael Schumacher,49,Mercedes
+Paul di Resta,46,Force India Mercedes
+Pastor Maldonado,45,Williams Renault
+Bruno Senna,31,Williams Renault
+Jean-Eric Vergne,16,STR Ferrari
+Daniel Ricciardo,10,STR Ferrari
+Vitaly Petrov,0,Caterham Renault
+Timo Glock,0,Marussia Cosworth
+Charles Pic,0,Marussia Cosworth
+Heikki Kovalainen,0,Caterham Renault
+Jerome d'Ambrosio,0,Lotus Renault
+Narain Karthikeyan,0,HRT Cosworth
+Pedro de la Rosa,0,HRT Cosworth
+2013
+Sebastian Vettel,397,Red Bull Racing Renault
+Fernando Alonso,242,Ferrari
+Mark Webber,199,Red Bull Racing Renault
+Lewis Hamilton,189,Mercedes
+Kimi Räikkönen,183,Lotus Renault
+Nico Rosberg,171,Mercedes
+Romain Grosjean,132,Lotus Renault
+Felipe Massa,112,Ferrari
+Jenson Button,73,McLaren Mercedes
+Nico Hulkenberg,51,Sauber Ferrari
+Sergio Perez,49,McLaren Mercedes
+Paul di Resta,48,Force India Mercedes
+Adrian Sutil,29,Force India Mercedes
+Daniel Ricciardo,20,STR Ferrari
+Jean-Eric Vergne,13,STR Ferrari
+Esteban Gutierrez ,6,Sauber Ferrari
+Valtteri  Bottas,4,Williams Renault
+Pastor Maldonado,1,Williams Renault
+Jules Bianchi,0,Marussia Cosworth
+Charles Pic,0,Caterham Renault
+Heikki Kovalainen,0,Lotus Renault
+Giedo van der Garde,0,Caterham Renault
+Max Chilton,0,Marussia Cosworth
+2014
+Lewis Hamilton,384,Mercedes
+Nico Rosberg,317,Mercedes
+Daniel Ricciardo,238,Red Bull Racing Renault
+Valtteri  Bottas,186,Williams Mercedes
+Sebastian Vettel,167,Red Bull Racing Renault
+Fernando Alonso,161,Ferrari
+Felipe Massa,134,Williams Mercedes
+Jenson Button,126,McLaren Mercedes
+Nico Hulkenberg,96,Force India Mercedes
+Sergio Perez,59,Force India Mercedes
+Kevin Magnussen,55,McLaren Mercedes
+Kimi Räikkönen,55,Ferrari
+Jean-Eric Vergne,22,STR Renault
+Romain Grosjean,8,Lotus Renault
+Daniil Kvyat,8,STR Renault
+Pastor Maldonado,2,Lotus Renault
+Jules Bianchi,2,Marussia Ferrari
+Adrian Sutil,0,Sauber Ferrari
+Marcus Ericsson,0,Caterham Renault
+Esteban Gutierrez ,0,Sauber Ferrari
+Max Chilton,0,Marussia Ferrari
+Kamui Kobayashi,0,Caterham Renault
+Will Stevens,0,Caterham Renault
+2015
+Lewis Hamilton,381,Mercedes
+Nico Rosberg,322,Mercedes
+Sebastian Vettel,278,Ferrari
+Kimi Räikkönen,150,Ferrari
+Valtteri  Bottas,136,Williams Mercedes
+Felipe Massa,121,Williams Mercedes
+Daniil Kvyat,95,Red Bull Racing Renault
+Daniel Ricciardo,92,Red Bull Racing Renault
+Sergio Perez,78,Force India Mercedes
+Nico Hulkenberg,58,Force India Mercedes
+Romain Grosjean,51,Lotus Mercedes
+Max Verstappen,49,STR Renault
+Felipe Nasr,27,Sauber Ferrari
+Pastor Maldonado,27,Lotus Mercedes
+Carlos Sainz,18,STR Renault
+Jenson Button,16,McLaren Honda
+Fernando Alonso,11,McLaren Honda
+Marcus Ericsson,9,Sauber Ferrari
+Roberto Merhi,0,Marussia Ferrari
+Alexander Rossi,0,Marussia Ferrari
+Will Stevens,0,Marussia Ferrari
+2016
+Nico Rosberg,385,Mercedes
+Lewis Hamilton,380,Mercedes
+Daniel Ricciardo,256,Red Bull Racing TAG Heuer
+Sebastian Vettel,212,Ferrari
+Max Verstappen,204,Red Bull Racing TAG Heuer
+Kimi Räikkönen,186,Ferrari
+Sergio Perez,101,Force India Mercedes
+Valtteri  Bottas,85,Williams Mercedes
+Nico Hulkenberg,72,Force India Mercedes
+Fernando Alonso,54,McLaren Honda
+Felipe Massa,53,Williams Mercedes
+Carlos Sainz,46,Toro Rosso Ferrari
+Romain Grosjean,29,Haas Ferrari
+Daniil Kvyat,25,Toro Rosso Ferrari
+Jenson Button,21,McLaren Honda
+Kevin Magnussen,7,Renault
+Felipe Nasr,2,Sauber Ferrari
+Jolyon Palmer,1,Renault
+Pascal Wehrlein,1,MRT Mercedes
+Stoffel Vandoorne,1,McLaren Honda
+Esteban Gutierrez ,0,Haas Ferrari
+Marcus Ericsson,0,Sauber Ferrari
+Esteban Ocon,0,MRT Mercedes
+Rio Haryanto,0,MRT Mercedes
+2017
+Lewis Hamilton,363,Mercedes
+Sebastian Vettel,317,Ferrari
+Valtteri  Bottas,305,Mercedes
+Kimi Räikkönen,205,Ferrari
+Daniel Ricciardo,200,Red Bull Racing TAG Heuer
+Max Verstappen,168,Red Bull Racing TAG Heuer
+Sergio Perez,100,Force India Mercedes
+Esteban Ocon,87,Force India Mercedes
+Carlos Sainz,54,Renault
+Nico Hulkenberg,43,Renault
+Felipe Massa,43,Williams Mercedes
+Lance Stroll,40,Williams Mercedes
+Romain Grosjean,28,Haas Ferrari
+Kevin Magnussen,19,Haas Ferrari
+Fernando Alonso,17,McLaren Honda
+Stoffel Vandoorne,13,McLaren Honda
+Jolyon Palmer,8,Renault
+Pascal Wehrlein,5,Sauber Ferrari
+Daniil Kvyat,5,Toro Rosso
+Marcus Ericsson,0,Sauber Ferrari
+Pierre Gasly,0,Toro Rosso
+Antonio Giovinazzi,0,Sauber Ferrari
+Brendon Hartley,0,Toro Rosso
+2018
+Lewis Hamilton,408,Mercedes
+Sebastian Vettel,320,Ferrari
+Kimi Räikkönen,251,Ferrari
+Max Verstappen,249,Red Bull Racing TAG Heuer
+Valtteri Bottas,247,Mercedes
+Daniel Ricciardo,170,Red Bull Racing TAG Heuer
+Nico Hulkenberg,69,Renault
+Sergio Perez,62,Force India Mercedes
+Kevin Magnussen,56,Haas Ferrari
+Carlos Sainz,53,Renault
+Fernando Alonso,50,McLaren Renault
+Esteban Ocon,49,Force India Mercedes
+Charles Leclerc,39,Sauber Ferrari
+Romain Grosjean,37,Haas Ferrari
+Pierre Gasly,29,Scuderia Toro Rosso Honda
+Stoffel Vandoorne,12,McLaren Renault
+Marcus Ericsson,9,Sauber Ferrari
+Lance Stroll,6,Williams Mercedes
+Brendon Hartley,4,Scuderia Toro Rosso Honda
+Sergey Sirotkin,1,Williams Mercedes
+2019
+Lewis Hamilton,413,Mercedes
+Valtteri Bottas,326,Mercedes
+Max Verstappen,278,Red Bull Racing Honda
+Charles Leclerc,264,Ferrari
+Sebastian Vettel,240,Ferrari
+Carlos Sainz,96,McLaren Renault
+Pierre Gasly,95,Scuderia Toro Rosso Honda
+Alexander Albon,92,Red Bull Racing Honda
+Daniel Ricciardo,54,Renault
+Sergio Perez,52,Racing Point BWT Mercedes
+Lando Norris,49,McLaren Renault
+Kimi Räikkönen,43,Alfa Romeo Racing Ferrari
+Daniil Kvyat,37,Scuderia Toro Rosso Honda
+Nico Hulkenberg,37,Renault
+Lance Stroll,21,Racing Point BWT Mercedes
+Kevin Magnussen,20,Haas Ferrari
+Antonio Giovinazzi,14,Alfa Romeo Racing Ferrari
+Romain Grosjean,8,Haas Ferrari
+Robert Kubica,1,Williams Mercedes
+George Russell,0,Williams Mercedes
+2020
+Lewis Hamilton,347,Mercedes
+Valtteri Bottas,223,Mercedes
+Max Verstappen,214,Red Bull Racing Honda
+Sergio Perez,125,Racing Point BWT Mercedes
+Daniel Ricciardo,119,Renault
+Carlos Sainz,105,McLaren Renault
+Alexander Albon,105,Red Bull Racing Honda
+Charles Leclerc,98,Ferrari
+Lando Norris,97,McLaren Renault
+Pierre Gasly,75,AlphaTauri Honda
+Lance Stroll,75,Racing Point BWT Mercedes
+Esteban Ocon,62,Renault
+Sebastian Vettel,33,Ferrari
+Daniil Kvyat,32,AlphaTauri Honda
+Nico Hulkenberg,10,Racing Point BWT Mercedes
+Kimi Räikkönen,4,Alfa Romeo Racing Ferrari
+Antonio Giovinazzi,4,Alfa Romeo Racing Ferrari
+George Russell,3,Williams Mercedes
+Romain Grosjean,2,Haas Ferrari
+Kevin Magnussen,1,Haas Ferrari
 Nicholas Latifi,0,Williams Mercedes
-Nico Hulkenberg,0,Aston Martin Aramco Mercedes
-Sergio Perez,0,Red Bull Racing RBPT
-Max Verstappen,0,Red Bull Racing RBPT
+Jack Aitken,0,Williams Mercedes
+Pietro Fittipaldi,0,Haas Ferrari
+2021
+Max Verstappen,395.5,Red Bull Racing Honda
+Lewis Hamilton,387.5,Mercedes
+Valtteri Bottas,226,Mercedes
+Sergio Perez,190,Red Bull Racing Honda
+Carlos Sainz,164.5,Ferrari
+Lando Norris,160,McLaren Mercedes
+Charles Leclerc,159,Ferrari
+Daniel Ricciardo,115,McLaren Mercedes
+Pierre Gasly,110,AlphaTauri Honda
+Fernando Alonso,81,Alpine Renault
+Esteban Ocon,74,Alpine Renault
+Sebastian Vettel,43,Aston Martin Mercedes
+Lance Stroll,34,Aston Martin Mercedes
+Yuki Tsunoda,32,AlphaTauri Honda
+George Russell,16,Williams Mercedes
+Kimi Räikkönen,10,Alfa Romeo Racing Ferrari
+Nicholas Latifi,7,Williams Mercedes
+Antonio Giovinazzi,3,Alfa Romeo Racing Ferrari
+Mick Schumacher,0,Haas Ferrari
+Robert Kubica,0,Alfa Romeo Racing Ferrari
+Nikita Mazepin,0,Haas Ferrari
