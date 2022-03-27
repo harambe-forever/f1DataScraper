@@ -1,4 +1,5 @@
 import numpy as np
+import random
 
 
 def main():
@@ -34,7 +35,7 @@ def levenshtein(seq1, seq2):
     return (matrix[size_x - 1, size_y - 1])
 
 
-#print(levenshtein("lewis hamilton".lower(), "luis hamilten".lower()))
+#print(levenshtein("giovanni gusto", "giovanni gaspa"))
 
 
 def find(path, name):
@@ -52,10 +53,36 @@ def find(path, name):
             else:
                 stringMatch = levenshtein(name, l[0].lower())
                 if stringMatch < 5:
-                    print("did you mean,", l[0])
+                    print("did you mean,", l[0].lower())
                     input()
             line = file.readline()
     # print(seasonal_data)
 
 
-main()
+# main()
+
+
+def rdm():
+    alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l',
+                'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+    words1 = []
+    words2 = []
+    for i in range(1000):
+        iter = random.randint(1, 15)
+        thisWord = []
+        thatWord = []
+        for j in range(0, iter):
+            thisWord.append(alphabet[random.randint(0, 25)])
+            thatWord.append(alphabet[random.randint(0, 25)])
+        words1.append("".join(thisWord))
+        words2.append("".join(thatWord))
+
+    rets = []
+    for k in range(len(words1)):
+        ret = levenshtein(words1[k], words2[k])
+        rets.append(ret)
+    avg = np.mean(rets)
+    print(avg)
+
+
+rdm()
