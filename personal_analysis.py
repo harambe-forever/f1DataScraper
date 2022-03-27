@@ -35,9 +35,6 @@ def levenshtein(seq1, seq2):
     return (matrix[size_x - 1, size_y - 1])
 
 
-#print(levenshtein("giovanni gusto", "giovanni gaspa"))
-
-
 def find(path, name):
     year = 0
     with open(path, encoding="utf-8") as file:
@@ -56,13 +53,27 @@ def find(path, name):
                     print("did you mean,", l[0].lower())
                     input()
             line = file.readline()
-    # print(seasonal_data)
+
+
+def average_len_of_names(path):
+    print("enter")
+    with open(path, encoding="utf-8") as file:
+        line = file.readline()
+        total_len = 0
+        count = 0
+        while line:
+            if line[0].isdigit() == False:
+                name = line.split(",")[0]
+                count += 1
+                total_len += len(name)
+            line = file.readline()
+        print(total_len/count)
+        print("done")
 
 
 # main()
 
-
-def rdm():
+"""def rdm():
     alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l',
                 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
     words1 = []
@@ -83,6 +94,4 @@ def rdm():
         rets.append(ret)
     avg = np.mean(rets)
     print(avg)
-
-
-rdm()
+"""
