@@ -70,11 +70,10 @@ def levenshtein(seq1, seq2):
 
 def find(path, name):
     year = 0
-    flag = True
-    sendIt = False
     with open(path, encoding="utf-8") as file:
         line = file.readline()
         l = []
+        possibleOnes = {}
         while line:
             l = line.split(",")
             isYear = line[0].isdigit()
@@ -82,29 +81,15 @@ def find(path, name):
 
             if line[0].isdigit():
                 year = int(line.strip("\n"))
-                pass
-            if 2 < lev < 5 and flag == True and sendIt == False:
-                print("Did you mean:", l[0], "?(1/0)")
-                dym = int(input())
-                if dym == 1:
-                    flag = False
-                elif dym == 0:
-                    sendIt = True
-            elif 2 < lev < 5 and isYear == 0 and sendIt == False:
-                print("ilk")
-                print(year, l[0], l[1], l[2])
-            elif 2 < lev < 5 and isYear == 0 and sendIt == True and flag == True:
-                print("ikinci")
-                print(year, l[0], l[1], l[2])
-
-            """if l[0] == name:
-                print(year, l[1])
-            else:
-                stringMatch = levenshtein(name, l[0].lower())
-                if 2 < stringMatch < 5:
-                    print("did you mean,", l[0].lower())
-                    input()"""
+                line = file.readline()
+                continue
+            key = str(l[0] + " " + str(year))
+            val = str(l[1] + " " + l[2])
+            if lev < 5.5:
+                possibleOnes[key] = val
             line = file.readline()
+        for key, value in possibleOnes.items():
+            print(key, ":", value)
 
 
 def main():
@@ -114,4 +99,4 @@ def main():
 
 
 main()
-#print(levenshtein("max verstappen", "jos verstappen"))
+#print(levenshtein("sebastain vetel", "sebastian vettel"))
