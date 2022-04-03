@@ -74,19 +74,23 @@ def find(path, name):
         line = file.readline()
         l = []
         possibleOnes = {}
+        position = 1
         while line:
             l = line.split(",")
             isYear = line[0].isdigit()
             lev = levenshtein(l[0], name)
-
+            #print("lev:", lev, " lenName/4:", len(l[0])/4, " name:", l[0])
             if line[0].isdigit():
+                position = 1
                 year = int(line.strip("\n"))
                 line = file.readline()
                 continue
             key = str(l[0] + " " + str(year))
-            val = str(l[1] + " " + l[2])
-            if lev < 5.5:
+            val = str(l[1] + " " + l[2].strip("\n") + "\tP" + str(position))
+            #print(l[0], "\t", len(l[0])/4)
+            if lev < (len(l[0])/4):
                 possibleOnes[key] = val
+            position += 1
             line = file.readline()
         for key, value in possibleOnes.items():
             print(key, ":", value)
