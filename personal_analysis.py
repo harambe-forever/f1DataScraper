@@ -77,7 +77,6 @@ def find(path, name):
         position = 1
         while line:
             l = line.split(",")
-            isYear = line[0].isdigit()
             lev = levenshtein(l[0], name)
             #print("lev:", lev, " lenName/4:", len(l[0])/4, " name:", l[0])
             if line[0].isdigit():
@@ -86,7 +85,8 @@ def find(path, name):
                 line = file.readline()
                 continue
             key = str(l[0] + " " + str(year))
-            val = str(l[1] + " " + l[2].strip("\n") + "\tP" + str(position))
+            val = str(l[1] + "  " + l[2].strip("\n") +
+                      " "*(35 - (len(l[2]) + len(l[1]))) + "P" + str(position))
             #print(l[0], "\t", len(l[0])/4)
             if lev < (len(l[0])/4):
                 possibleOnes[key] = val
